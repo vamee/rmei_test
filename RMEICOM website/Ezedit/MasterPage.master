@@ -1,0 +1,119 @@
+<%@ Master Language="VB" CodeFile="MasterPage.master.vb" Inherits="Ezedit_MasterPage" %>
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<html >
+<head runat="server">
+    <title>Ez-Edit Content Management System</title>
+    <link href="~/App_Themes/Ezedit/EzEdit.css" rel="stylesheet" type="text/css" runat="server" />
+    <link id="Link1" href="~/templates/common/AJAXstyles.css" rel="stylesheet" type="text/css" runat="server" />
+</head>
+<body leftmargin="0" topmargin="0">
+    <form name="Form1" id="Form1" runat="server">
+        <div>
+            <table border="0" width="100%" height="100%" cellpadding="0" cellspacing="0">
+	            <tr>
+		            <td bgcolor="#EBE7D6"><asp:Image ID="Image1" Width="1" Height="3" runat="server" /></td>
+	            </tr>
+	            <tr>
+		            <!--- this is the left --->
+		            <td>
+			            <table width="100%" cellpadding="0" cellspacing="0" border="0">
+				            <tr>
+					            <td width="141"><asp:Hyperlink ID="Image2" ImageUrl="~/App_Themes/EzEdit/Images/Emaginelogo.gif" NavigateUrl="/EzEdit" runat="server" /></td>
+					            <td width="100%" align="right" valign="bottom" style="padding-bottom:3px; padding-right:20px;">
+						            <%--<a href="~/ezedit/default.aspx" class="main" runat="server"><b>Home</b></a>
+						            &nbsp;&nbsp;&nbsp;&nbsp;--%>
+						             <asp:LinkButton ID="linkLogout" Runat="server" OnClick="linkLogout_Click" CssClass="main-bold" Text="Logout" />
+					            </td>
+				            </tr>
+			            </table></td>
+		            <!--- this is the right --->
+	            </tr>
+	            <tr>
+		            <td bgcolor="#CCCCCC" height="1"><asp:Image ID="Image3" runat="server" Width="1" Height="1" /></td>
+	            </tr>
+	            <tr>
+		            <td bgcolor="#F5FDFF" height="1"><asp:Image ID="Image4" runat="server" Width="1" Height="1" /></td>
+	            </tr>
+	            <tr>
+		            <td bgcolor="#81879D" height="1"><asp:Image ID="Image5" runat="server" Width="1" Height="1" /></td>
+	            </tr>
+	            <!--- Top Nav Row --->
+	            <tr>
+		            <td bgcolor="#7288AD" height="20">
+			            <table width="100%" cellpadding="0" cellspacing="0" border="0">
+				            <tr>
+					            <%--<td style="padding-left:10px;" width="140">
+					                <span class="topNav-bold">User:</span>
+					                <span class="topNav"><%=Session("EzEditName")%></span>
+                                </td>--%>
+                                <td style="padding-left:20px;">
+                                    <asp:Menu ID="EzEditNavigation" runat="server" Orientation="Horizontal" BackColor="#7288AD" DynamicHorizontalOffset="2" StaticSubMenuIndent="10px" StaticEnableDefaultPopOutImage="false">
+                                        <StaticMenuItemStyle HorizontalPadding="5px" VerticalPadding="0px" />
+                                        <StaticHoverStyle BackColor="#7288AD" ForeColor="White"  />
+                                        <DynamicMenuStyle CssClass="EzEditMenu" />
+                                        <DynamicMenuItemStyle CssClass="EzEditMenuItem" Width="150" />
+                                        <Items>
+                                            <%--<asp:MenuItem ImageUrl="~/App_Themes/EzEdit/Images/navSeparator.gif" Selectable="false"></asp:MenuItem>--%>
+                                            
+                                            <asp:MenuItem ImageUrl="~/App_Themes/EzEdit/Images/topNavSiteContent.gif" Selectable="false">
+                                                <asp:MenuItem Text="Pages" NavigateUrl="~/ezedit/modules/Pages02/" />
+                                                <asp:MenuItem Text="Library Items" NavigateUrl="~/ezedit/modules/LB01/" />
+                                                <asp:MenuItem Text="Misc Content" NavigateUrl="~/ezedit/modules/Content01/" />
+                                            </asp:MenuItem>
+                                            <asp:MenuItem ImageUrl="~/App_Themes/EzEdit/Images/navPipe.gif" Selectable="false"></asp:MenuItem>
+                                            <asp:MenuItem ImageUrl="~/App_Themes/EzEdit/Images/topNavApplications.gif" Selectable="false"></asp:MenuItem>
+                                            <asp:MenuItem ImageUrl="~/App_Themes/EzEdit/Images/navPipe.gif" Selectable="false"></asp:MenuItem>
+                                            <asp:MenuItem ImageUrl="~/App_Themes/EzEdit/Images/topNavUtilities.gif" Selectable="false">
+                                              <asp:MenuItem Text="Lookups" NavigateUrl="~/ezedit/modules/Lookups/" />
+                                              <asp:MenuItem Text="Reports" NavigateUrl="~/ezedit/modules/Reports01/" />
+                                            </asp:MenuItem>
+                                        </Items>
+                                    </asp:Menu>
+                                
+                                </td>
+                                <td style="padding-right:20px;" align="right">
+					                <span class="topNav-bold">User:</span>
+					                <span class="topNav"><%=Session("EzEditName")%></span>
+                                </td>
+				            </tr>
+			            </table></td>
+	            </tr>
+	            <tr>
+		            <td bgcolor="#636766" height="1"><asp:Image ID="Image1a" runat="server" Width="1" Height="1" /></td>
+	            </tr>
+	            <tr>
+		            <td bgcolor="#98999B" height="2"><asp:Image ID="Image2a" runat="server" Width="2" Height="1" /></td>
+	            </tr>
+	            <tr>
+		            <td bgcolor="#EAE7D8" height="12"><asp:Image ID="Image3a" runat="server" Width="1" Height="1" /></td>
+	            </tr>
+	            <tr>
+		            <td valign="top" height="100%">
+			            <table width="100%" height="100%" cellpadding="0" cellspacing="0" border="0">
+				            <tr>
+					            <%--<td bgcolor="#EAE7D8" valign="top"><asp:Image ID="Image4a" runat="server" Width="97" Height="1" /></td>--%>
+					            <td width="20" bgcolor="#D2CEC2"><asp:Image ID="Image5a" runat="server" Width="20" Height="1" /></td>
+					            <td width="100%" valign="top">
+						            <table width="100%" cellpadding="0" cellspacing="0" border="0">
+							            <tr>
+								            <td bgcolor="#D2CEC2">&nbsp;</td>
+							            </tr>
+							            <tr>
+								            <td style="padding:20px 20px 20px 20px;">
+                                                <asp:contentplaceholder id="Main" runat="server" />
+                                            </td>
+							            </tr>
+						            </table>
+					            </td>
+					            <td width="20" bgcolor="#D2CEC2"><asp:Image ID="Image6a" runat="server" Width="20" Height="1" /></td>
+				            </tr>
+			            </table>
+		            </td>
+	            </tr>
+            </table>
+        </div>
+    </form>
+</body>
+</html>

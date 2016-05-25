@@ -1,0 +1,323 @@
+.CSCCalendar
+{
+   border-right: lightgrey ridge;
+   border-top: lightgrey ridge;
+   font-size: 8pt;
+   border-left: lightgrey ridge;
+   border-bottom: lightgrey ridge;
+   font-family: Arial;
+   background-color: white;
+}
+
+.CSCCalendar TABLE
+{
+   font-size: 8pt;
+   font-family: Arial;
+   background-color: white;
+}
+
+
+.CSCWeekRowsTable
+{
+   font-size: 8pt;
+   font-family: Arial;
+   background-color: white;
+}
+
+.CSCDay
+{
+   cursor: pointer; 
+}
+
+.CSCSelectedDay
+{
+   background-color: gold;
+   cursor: pointer;
+}
+.CSCSelectedToday
+{
+   font-weight: bold;
+   background-color: gold;
+   cursor: pointer;
+}
+.CSCToday
+{
+   font-weight: bold;
+   cursor: pointer;
+}
+.CSCSpecialDay
+{
+   cursor: pointer;
+   background-color: lemonchiffon;
+}
+
+.CSCOtherMonthDays
+{
+   cursor: default;
+   color: gray;
+}
+
+.CSCWeekNumberColumn
+{
+   background-color: lightblue;
+}
+
+.CSCDayHeader
+{
+}
+
+.CSCDayHeader TR
+{
+   font-size: 7pt;
+   background-color: lightblue;
+}
+
+.CSCDayHeaderCell
+{
+   font-size: 7pt;
+}
+
+.CSCHeaderTable
+{
+   font-size: 8pt;
+   font-family: Arial;
+}
+
+.CSCHeaderRows
+{
+   font-size: 8pt;
+   font-family: Arial;
+   cursor: default;
+}
+
+.CSCHeaderRows TR
+{
+   background-color: inherit;
+}
+
+.CSCIncrementalButtons
+{
+   cursor: pointer;
+   color: mediumblue;
+}
+
+.CSCIncrementalButtonsPressed
+{
+   cursor: pointer;
+   color: darkblue;
+}
+
+.CSCJumpButtons
+{
+   color: mediumblue;
+   cursor: pointer;
+}
+
+.CSCJumpButtonsPressed
+{
+   color: darkblue;
+   cursor: pointer;
+}
+
+.CSCCloseButton
+{
+   cursor: default;
+}
+
+.CSCCloseButtonPressed
+{
+   cursor: default;
+}
+.CSCHelpButton
+{
+   cursor: default;
+}
+
+.CSCHelpButtonPressed
+{
+   cursor: default;
+}
+
+.CSCFooterTable
+{
+}
+
+.CSCFooterTable TABLE
+{
+}
+
+.CSCFooterButton
+{
+   border-right: lightgrey thin outset;
+   border-top: lightgrey thin outset;
+   border-left: lightgrey thin outset;
+   color: black;
+   border-bottom: lightgrey thin outset;
+   background-color: lightblue;
+   font-size: 8pt;
+   font-family: Arial;
+   cursor: pointer;
+}
+
+.CSCFooterButtonPressed
+{
+   border-right: lightgrey thin inset;
+   border-top: lightgrey thin inset;
+   border-left: lightgrey thin inset;
+   border-bottom: lightgrey thin inset;
+   background-color: lightblue;
+   color: black;
+   font-size: 8pt;
+   font-family: Arial;
+   cursor: pointer;
+}
+
+.CSCFooterCurrentDate
+{
+}
+
+
+.SD_Selectable1
+{
+   background-color: mistyrose;
+   cursor: pointer;
+}
+.SD_SelectableOM1
+{
+   background-color: powderblue;
+   cursor: pointer;
+}
+.SD_Selectable2
+{
+   background-color: palegoldenrod;
+   cursor: pointer;
+}
+.SD_SelectableOM2
+{
+   background-color: gainsboro;
+   cursor: pointer;
+}
+.SD_Unselectable1
+{
+   color: black;
+   background-color: mistyrose;
+}
+.SD_UnselectableOM1
+{
+   color: black;
+   background-color: powderblue;
+}
+.SD_Unselectable2
+{
+   color: black;
+   background-color: palegoldenrod;
+}
+.SD_UnselectableOM2
+{
+   color: black;
+   background-color: gainsboro;
+}
+
+.DTBToggleCalendar
+{
+}
+
+.DTBToggleCalendarPressed
+{
+}
+
+.DTBHelpButton
+{
+}
+
+.DTBHelpButtonPressed
+{
+}
+
+.MYPMonthYearPicker
+{
+   border-right: gray 1px solid;
+   border-top: gray 1px solid;
+   font-size: 8pt;
+   border-left: gray 1px solid;
+   border-bottom: gray 1px solid;
+   font-family: Arial;
+   background-color: white;
+}
+
+.MYPMonthYearPicker TABLE
+{
+   font-size: 8pt;
+   font-family: Arial;
+   background-color: white;
+}
+
+.MYPMonthTable
+{
+}
+
+.MYPYearTable
+{
+}
+
+.MYPMonthCell
+{
+   cursor: pointer;
+}
+
+.MYPSelectedMonthCell
+{
+   background-color: gold;
+   cursor: pointer;
+}
+
+
+.MYPYearCell
+{
+   cursor: pointer;
+}
+.MYPSelectedYearCell
+{
+   cursor: pointer;
+   background-color: gold;
+}
+
+.MYPOutOfRangeCell
+{
+   color: gray;
+}
+
+.MYPMoveYearsButtons
+{
+}
+
+.MYPMoveYearsButtonsPressed
+{
+}
+
+.MYPTogglePicker
+{
+}
+
+.MYPTogglePickerPressed
+{
+}
+
+
+.PDPContextMenu
+{
+   border-right: lightgrey 1px solid;
+   border-top: lightgrey 1px solid;
+   font-size: 8pt;
+   border-left: lightgrey 1px solid;
+   border-bottom: lightgrey 1px solid;
+   font-family: Arial;
+   background-color: white;
+}
+
+.PDPContextMenu TABLE
+{
+   font-size: 8pt;
+   font-family: Arial;
+   background-color: white;
+}

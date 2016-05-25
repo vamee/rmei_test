@@ -1,0 +1,101 @@
+.RadPanelbar_System
+{
+	white-space:nowrap;
+	line-height:20px;
+}
+
+.RadPanelbar_System .rootGroup
+{
+	border:1px solid buttonface;
+}
+
+.RadPanelbar_System .text
+{
+	color:Black;
+	padding:4px 20px;
+	font:menu;
+}
+
+.RadPanelbar_System .image
+{
+	margin:4px 0px;
+}
+
+
+.RadPanelbar_System .rootGroup .text
+{
+	border-top:1px solid white;
+	border-left:1px solid white;
+	border-bottom:1px solid buttonshadow;	
+	background:buttonface url(Img/collapsed.gif) right center no-repeat;
+	font-weight:bold;
+}
+
+.RadPanelbar_System .rootGroup .expanded .text
+{
+	background-image:url(Img/expanded.gif);
+}
+
+.RadPanelbar_System_rtl .rootGroup .text
+{
+	background-position:left center;
+}
+
+.RadPanelbar_System .group 
+{
+	background-color:White;
+}
+
+.RadPanelbar_System .level1 
+{
+	
+}
+
+.RadPanelbar_System .level1 .link
+{
+	border-bottom:1px solid buttonface;
+}
+
+.RadPanelbar_System .level1 .text,
+.RadPanelbar_System .level1 .expanded .text
+{
+	border:0;
+	background:transparent;
+	font-weight:normal;
+	padding:2px 20px;
+}
+
+.RadPanelbar_System .level1 .selected .text
+{
+	background:Highlight;
+	color:HighlightText;
+	text-decoration:underline;
+}
+
+.RadPanelbar_System .focused .text
+{
+	text-decoration:underline;
+}
+
+
+.RadPanelbar_System .rootGroup .disabled:hover,
+.RadPanelbar_System .rootGroup .disabled .text
+{
+	background:buttonface url(Img/collapsed.gif) right center no-repeat;
+	color: #ccc;
+	cursor: default;
+}
+
+.RadPanelbar_System .rootGroup .group .disabled:hover,
+.RadPanelbar_System .rootGroup .group .disabled .text
+{
+	text-decoration: none;
+	background: none;
+	color: #ccc;
+	cursor: default;
+}
+
+.RadPanelbar_System .rootGroup .expanded.disabled .text
+{
+	background-image:url(Img/expanded.gif);
+}

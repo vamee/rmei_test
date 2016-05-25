@@ -1,0 +1,1 @@
+<%@ Page Inherits="Telerik.WebControls.Spell.DialogHandler" %>

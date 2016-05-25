@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <string id="Title">Gestionnaire d'hyperliens</string>
+  <string id="Tab1HeaderText">Hyperlien</string>
+  <string id="Tab2HeaderText">Ancre</string>
+  <string id="Tab3HeaderText">Courriel</string>
+  <string id="LinkUrl">URL :</string>
+  <string id="LinkType">Type :</string>
+  <string id="Other">autre</string>
+  <string id="LinkTarget">Cible :</string>
+  <string id="Target">Cible</string>
+  <string id="LinkTooltip">Info bulle :</string>
+  <string id="LinkName">Nom :</string>
+  <string id="LinkAddress">Adresse :</string>
+  <string id="LinkSubject">Sujet :</string>
+  <string id="OK">OK</string>
+  <string id="Cancel">Annuler</string>
+  <string id="CssClass">Classe de CSS :</string>
+  <string id="AnchorCss">Css de l'ancre</string>
+  <string id="LinkText">Texte du lien :</string>
+  <string id="ClearStyle">Supprimer les styles</string>
+  <string id="LinkToAnchor">Ancre existante :</string>
+  <string id="AnchorNone">Pas d'ancre</string> 
+</localization>

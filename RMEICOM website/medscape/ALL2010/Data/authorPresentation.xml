@@ -1,0 +1,1615 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<presentation>
+<properties>
+<title><![CDATA[Select Topics in ALL]]></title>
+<creationDate>1/20/2010 6:54:43 PM</creationDate>
+<video><![CDATA[Data/presentation.flv]]></video>
+<presenterName><![CDATA[]]></presenterName>
+<presenterCompany><![CDATA[]]></presenterCompany>
+<presenterTitle><![CDATA[]]></presenterTitle>
+<presenterEmail><![CDATA[]]></presenterEmail><presentationDescription><![CDATA[]]></presentationDescription><presentationLogo><![CDATA[Images/Presenter_LI.swf]]></presentationLogo>
+<presentationLogoWidth>300</presentationLogoWidth>
+<presentationLogoHeight>70</presentationLogoHeight>
+<presentationTitle><![CDATA[Select Topics in ALL]]></presentationTitle>
+<presentationURLs></presentationURLs>
+</properties>
+<slides>
+<slide id="1">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide1.jpg</slideImage>
+<fileUrl>Slides/slide1.swf</fileUrl>
+<title><![CDATA[Select Topics in ALL]]></title>
+<slideText><![CDATA[]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>600</totalframes>
+<time>00:00:30</time>
+</slide><slide id="2">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide2.jpg</slideImage>
+<fileUrl>Slides/slide2.swf</fileUrl>
+<title><![CDATA[Activity Sponsorship and Support]]></title>
+<slideText><![CDATA[ Activity Sponsorship and Support ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>760</totalframes>
+<time>00:00:38</time>
+</slide><slide id="3">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide3.jpg</slideImage>
+<fileUrl>Slides/slide3.swf</fileUrl>
+<title><![CDATA[Disclosure of Conflicts of Interest]]></title>
+<slideText><![CDATA[ Disclosure of Conflicts of Interest ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>180</totalframes>
+<time>00:00:09</time>
+</slide><slide id="4">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide4.jpg</slideImage>
+<fileUrl>Slides/slide4.swf</fileUrl>
+<title><![CDATA[Faculty Introduction]]></title>
+<slideText><![CDATA[ Faculty Introduction ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>1800</totalframes>
+<time>00:01:30</time>
+</slide><slide id="5">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide5.jpg</slideImage>
+<fileUrl>Slides/slide5.swf</fileUrl>
+<title><![CDATA[The Molecular Characterization of ALL]]></title>
+<slideText><![CDATA[               
+
+ 
+
+University of New Mexico Cancer Center
+
+St. Jude Children’s Research Hospital
+
+National Cancer Institute: TARGET and Cancer Genome Atlas Projects
+
+Children’s Oncology Group / Southwest Oncology Group Prognostic Implications of the Molecular Characterization of ALL:
+Insights for New Targeted Therapies
+Cheryl L. Willman, MD
+University of New Mexico Cancer Center 
+NCI CA114762 Strategic Partnerships to Evaluate Cancer Gene Signatures 
+Leukemia and Lymphoma Society Specialized Center of Research (7388-06)
+NCI 1RC1 CA145707 Challenge Grant: Genomic Analysis of AYA ALL
+NCI 1RC2 CA148529 Grand Opportunities Award: Targeted Therapies for ALL
+
+
+ ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>1360</totalframes>
+<time>00:01:08</time>
+</slide><slide id="6">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide6.jpg</slideImage>
+<fileUrl>Slides/slide6.swf</fileUrl>
+<title><![CDATA[Disclosure of Conflicts of Interest]]></title>
+<slideText><![CDATA[ Disclosure of Conflicts of Interest ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>120</totalframes>
+<time>00:00:06</time>
+</slide><slide id="7">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide7.jpg</slideImage>
+<fileUrl>Slides/slide7.swf</fileUrl>
+<title><![CDATA[Annual US Incidence of ALL and AML]]></title>
+<slideText><![CDATA[ Annual US Incidence of Acute Lymphoblastic Leukemia (ALL) and Acute Myelogenous Leukemia (AML) National Cancer Institute. http://seer.cancer.gov/statfacts. Pediatric ALL Survival: 75%–80%
+Adult ALL Survival: 40% ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>1380</totalframes>
+<time>00:01:09</time>
+</slide><slide id="8">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide8.jpg</slideImage>
+<fileUrl>Slides/slide8.swf</fileUrl>
+<title><![CDATA[Cytogenetic Abnormalities: Pediatrics]]></title>
+<slideText><![CDATA[ Incidence of Recurring Cytogenetic Abnormalities in Pediatric ALL Pui CH, et al. N Engl J Med. 2004;350:1535-1548.
+Gutierrez A, et al. Blood. 2009;114:647-650.
+Mrózek K, et al. Hematol Oncol Clin North Am. 2009;23:991-1010. T-ALL – 8%–12% Cases
+30%: TCR 14q11 / 7q34
+NUP214-ABL1
+&gt;90%: NOTCH Mutations
+&gt;40%: PTEN-PI3K-AKT ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>2640</totalframes>
+<time>00:02:12</time>
+</slide><slide id="9">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide9.jpg</slideImage>
+<fileUrl>Slides/slide9.swf</fileUrl>
+<title><![CDATA[Outcomes in Pediatric B-Cell ALL]]></title>
+<slideText><![CDATA[ Outcome in Pediatric B Progenitor Cell ALL 1   15  5 10 0 20 40 60 80 100 Probability t(12;21): TEL-AML1/ ETV6-RUNX1 t(4;11): MLL  t(1;19): E2A (TCF3)-PBX1  Hyperdiploidy / + 4,10,17  Years  30% of Cases  
+Relapse Across All Risk Groups
+
+'High-Risk' ALL: 30%
+Few Genetic Markers ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>1540</totalframes>
+<time>00:01:17</time>
+</slide><slide id="10">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide10.jpg</slideImage>
+<fileUrl>Slides/slide10.swf</fileUrl>
+<title><![CDATA[Cytogenetic Abnormalities: Adult]]></title>
+<slideText><![CDATA[ Incidence of Recurring Cytogenetic Abnormalities in Adult ALL T-ALL – 16%–25% Cases
+30%: TCR 14q11 / 7q34
+NUP214-ABL1
+NOTCH Mutations Pui CH, et al. N Engl J Med. 2004;350:1535-1548.
+Mrózek K, et al. Hematol Oncol Clin North Am. 2009;23:991-1010. ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>1320</totalframes>
+<time>00:01:06</time>
+</slide><slide id="11">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide11.jpg</slideImage>
+<fileUrl>Slides/slide11.swf</fileUrl>
+<title><![CDATA[Outcome, Cytogenetics, and Age]]></title>
+<slideText><![CDATA[ Outcome, Cytogenetic Abnormalities, and Age in ALL Barry EV, Silverman LB. Curr Hematol Malig Rep. 2008;3:161-166.
+Mrózek K, et al. Hematol Oncol Clin North Am. 2009;23:991-1010. ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>1500</totalframes>
+<time>00:01:15</time>
+</slide><slide id="12">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide12.jpg</slideImage>
+<fileUrl>Slides/slide12.swf</fileUrl>
+<title><![CDATA[SWOG/ECOG Classification Algorithm]]></title>
+<slideText><![CDATA[ Southwest Oncology Group (SWOG) Adult ALL
+Classification Algorithm1 Medical Research Council (MRC)/Eastern Cooperative Oncology Group (ECOG)
+Adult ALL Classification 
+Algorithm2 1. Pullarkat VA, et al. Blood. 2008;111:2563-2572; with permission.
+2. Moorman AV, et al. Blood. 2007;109:3189-3197; with permission. ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>620</totalframes>
+<time>00:00:31</time>
+</slide><slide id="13">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide13.jpg</slideImage>
+<fileUrl>Slides/slide13.swf</fileUrl>
+<title><![CDATA[Cytogenetic Algorithm for Adult Risk]]></title>
+<slideText><![CDATA[ Cytogenetic Algorithm for Adult ALL Risk Classification Pullarkat VA, et al. Blood. 2007;111:2563-2572. ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>1440</totalframes>
+<time>00:01:12</time>
+</slide><slide id="14">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide14.jpg</slideImage>
+<fileUrl>Slides/slide14.swf</fileUrl>
+<title><![CDATA[Outcomes With Normal Karyotype]]></title>
+<slideText><![CDATA[ Outcome, Cytogenetic Abnormalities, and Age in ALL Barry EV, Silverman LB. Curr Hematol Malig Rep. 2008;3:161-166.
+Mrózek K, et al. Hematol Oncol Clin North Am. 2009;23:991-1010. ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>480</totalframes>
+<time>00:00:24</time>
+</slide><slide id="15">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide15.jpg</slideImage>
+<fileUrl>Slides/slide15.swf</fileUrl>
+<title><![CDATA[NCI Target Project]]></title>
+<slideText><![CDATA[ NCI TARGET PROJECT
+www.target.cancer.gov ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>1440</totalframes>
+<time>00:01:12</time>
+</slide><slide id="16">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide16.jpg</slideImage>
+<fileUrl>Slides/slide16.swf</fileUrl>
+<title><![CDATA[TARGET Cohort: POG/COG 9906]]></title>
+<slideText><![CDATA[ Focused on a cohort of 207 children with high-risk ALL uniformly treated on COG 9906 (augmented BFM)
+Sex:		70 girls; 137 boys
+Race:	126 white; 51 Hispanic; 13 black; 7 Asian; 		3 American Indian/Alaskan native; 7 other
+Age:		132 &gt;10 yrs; mean: 13.5 yrs
+WBC:	108 &gt;50K
+Genetics:	23: t(1;19), 21: MLL, others unknown
+4-Year EFS: 	61%
+Predictors: 	WBC (P&lt;0.001); flow MRD (P&lt;0.0001)
+Validation cohort: COG ALL0232 high-risk ALL 
+Accrued &gt;2600 children and adolescents
+467 are 16–21 years of age
+TARGET Extension: Adult ALL (CALGB, ECOG, SWOG) TARGET Cohort: POG/COG 9906 ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>1940</totalframes>
+<time>00:01:37</time>
+</slide><slide id="17">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide17.jpg</slideImage>
+<fileUrl>Slides/slide17.swf</fileUrl>
+<title><![CDATA[DNA Copy Number Abnormalities]]></title>
+<slideText><![CDATA[ Leukemia DNA Copy Number Abnormalities (CNAs) TCF3-PBX1 MLL Other Tris 4/10 ETV6-RUNX1 1 2 3 4 5 6 7 8 10 12 14 16 18 22 0 4 Copy number  Affymetrix SNP 500K (250K Sty and Nsp) arrays.
+Mullighan CG, et al. Nature. 2007;758-764.
+Mullighan CG, et al. N Engl J Med. 2009;360:470-480. ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>620</totalframes>
+<time>00:00:31</time>
+</slide><slide id="18">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide18.jpg</slideImage>
+<fileUrl>Slides/slide18.swf</fileUrl>
+<title><![CDATA[Recurring CNAs in High-Risk ALL]]></title>
+<slideText><![CDATA[ Recurring CNAs in High-Risk ALL *PAX5, IKZF1, EBF, LEF1 (sequence mutations excluded).
+Mullighan CG, et al. N Engl J Med. 2009;360:470-480. ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>680</totalframes>
+<time>00:00:34</time>
+</slide><slide id="19">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide19.jpg</slideImage>
+<fileUrl>Slides/slide19.swf</fileUrl>
+<title><![CDATA[Association Between CNA and Outcome]]></title>
+<slideText><![CDATA[ Association Between CNA and Outcome COG 9906 26.2% 71.0% IKZF1 P=0.002 35.5% 100% P=0.0003 EBF1 37.1% 85.3% P=0.0003 BTLA Mullighan CG, et al. Nature. 2008;453:110-114. ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>640</totalframes>
+<time>00:00:32</time>
+</slide><slide id="20">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide20.jpg</slideImage>
+<fileUrl>Slides/slide20.swf</fileUrl>
+<title><![CDATA[IKZF1 Deletions in BCR-ABL1 ALL]]></title>
+<slideText><![CDATA[ IKZF1 (Ikaros) Deletion Is a Near-Obligate Event in BCR-ABL1 ALL  Mullighan CG, et al. Nature. 2008;453:110-114. ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>720</totalframes>
+<time>00:00:36</time>
+</slide><slide id="21">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide21.jpg</slideImage>
+<fileUrl>Slides/slide21.swf</fileUrl>
+<title><![CDATA[Gene Expression Profiling]]></title>
+<slideText><![CDATA[ Gene Expression Profiling: Hierarchical Clustering With 100 Probe Sets Harvey RC, et al. Blood. 2009; in press. ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>1320</totalframes>
+<time>00:01:06</time>
+</slide><slide id="22">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide22.jpg</slideImage>
+<fileUrl>Slides/slide22.swf</fileUrl>
+<title><![CDATA[Disease-Free Survival: ROSE Clusters]]></title>
+<slideText><![CDATA[ Disease-Free Survival for ROSE Cluster Groups H6, V6, R6, C6 Cluster
+Older Children; P&lt;0.001
+Low WBC; P=0.03 H8, V8, R8, C8 Cluster  
+Hispanic Race: P&lt;0.002
+Day 28 MRD (+): P&lt;0.0001 Harvey RC, et al. Blood. 2009; in press. ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>780</totalframes>
+<time>00:00:39</time>
+</slide><slide id="23">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide23.jpg</slideImage>
+<fileUrl>Slides/slide23.swf</fileUrl>
+<title><![CDATA[Gene Set Enrichment Analysis]]></title>
+<slideText><![CDATA[ Gene Set Enrichment Analysis – Cluster R8: Activated Kinase Signature Genes: BMPR1B, ECM1, IGJ, PON2, SEMA6A, and TSPAN7  Mullighan CG, et al. N Engl J Med. 2009;360:470-480.
+Kang H, et al. Blood. 2009;Oct 30[Epub ahead of print]. ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>2180</totalframes>
+<time>00:01:49</time>
+</slide><slide id="24">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide24.jpg</slideImage>
+<fileUrl>Slides/slide24.swf</fileUrl>
+<title><![CDATA[JAK Mutations in High-Risk B-ALL]]></title>
+<slideText><![CDATA[ JAK Mutations in High-Risk B-ALL  V617F
+(MPD) Kinase Pseudokinase Kinase Pseudokinase Mullighan CG, et al. Proc Natl Acad Sci U S A. 2009;106:9414-9418; with permission.  ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>1120</totalframes>
+<time>00:00:56</time>
+</slide><slide id="25">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide25.jpg</slideImage>
+<fileUrl>Slides/slide25.swf</fileUrl>
+<title><![CDATA[Outlier Analysis: ROSE/COPA Genes]]></title>
+<slideText><![CDATA[ R8 R2 4 5 R1 2A R6 R7 R7 C2 C1 C6 C8 C7 Clusters w/215 ROSE Genes Clusters w/215 COPA Genes Harvey RC, et al. Blood. 2009; in press. ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>520</totalframes>
+<time>00:00:26</time>
+</slide><slide id="26">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide26.jpg</slideImage>
+<fileUrl>Slides/slide26.swf</fileUrl>
+<title><![CDATA[CRLF2 Outlier Expression]]></title>
+<slideText><![CDATA[ CRLF2 Outlier Expression ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>420</totalframes>
+<time>00:00:21</time>
+</slide><slide id="27">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide27.jpg</slideImage>
+<fileUrl>Slides/slide27.swf</fileUrl>
+<title><![CDATA[CRLF2 and TSLPR]]></title>
+<slideText><![CDATA[ CRLF2 / TSLPR Ziegler SF, Liu Y-J. Nature Immunol. 2006;7:709-714. ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>400</totalframes>
+<time>00:00:20</time>
+</slide><slide id="28">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide28.jpg</slideImage>
+<fileUrl>Slides/slide28.swf</fileUrl>
+<title><![CDATA[CRLF2 Rearrangements]]></title>
+<slideText><![CDATA[  Russell LJ, et al. Blood. 2009;114:2688-2698.
+Mullighan CG, et al. Nature Genetics. 2009;41:1243-1246.
+Harvey RC, et al. Blood. 2009; in press. ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>1060</totalframes>
+<time>00:00:53</time>
+</slide><slide id="29">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide29.jpg</slideImage>
+<fileUrl>Slides/slide29.swf</fileUrl>
+<title><![CDATA[Summary of CRLF2 Mutations]]></title>
+<slideText><![CDATA[ Summary of CRLF2 Mutations in ALL ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>2100</totalframes>
+<time>00:01:45</time>
+</slide><slide id="30">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide30.jpg</slideImage>
+<fileUrl>Slides/slide30.swf</fileUrl>
+<title><![CDATA[CRLF2 Clinical Significance]]></title>
+<slideText><![CDATA[ CRLF2: Clinical Significance ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>620</totalframes>
+<time>00:00:31</time>
+</slide><slide id="31">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide31.jpg</slideImage>
+<fileUrl>Slides/slide31.swf</fileUrl>
+<title><![CDATA[Hispanic/American Indian Ancestry]]></title>
+<slideText><![CDATA[ Whites Blacks East Asians American Indian Whites Blacks Asians Hispanics Distinguishing Hispanic/American Indian Ancestry   ALL Cases (Self-Reported Race) Reference Populations PC3    White      Black    Asian  Am. Ind.    White      Black     Asian    Am. Ind.  ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>980</totalframes>
+<time>00:00:49</time>
+</slide><slide id="32">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide32.jpg</slideImage>
+<fileUrl>Slides/slide32.swf</fileUrl>
+<title><![CDATA[Genetic Ancestry Markers]]></title>
+<slideText><![CDATA[ Race-informative PCs
+  PC1: % black
+  PC2: % Asian
+  PC3: % Hispanic/American Indian     ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>600</totalframes>
+<time>00:00:30</time>
+</slide><slide id="33">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide33.jpg</slideImage>
+<fileUrl>Slides/slide33.swf</fileUrl>
+<title><![CDATA[TARGET Re-Sequencing Update]]></title>
+<slideText><![CDATA[ 40%: RAS pathway mutations: NRAS, KRAS, PTPN11, FLT3, NF1; no outcome association
+14%: B cell development (PAX5, IFKZF1, others)
+11%: JAK tyrosine kinase mutations
+10%: TP53/RB1 mutations
+
+55%: Mutations in multiple pathways (RAS, B cell pathways, JAK, p53/RB)
+94%: CNA / mutations NCI ALL TARGET Candidate Re-Sequencing Update 897,707 Traces Analyzed To Date Zhang J, et al. Presented at the 51st American Society of Hematology (ASH) Annual Meeting and Exposition. December 5-8, 2009; New Orleans, LA [Abstract 85]. ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>1420</totalframes>
+<time>00:01:11</time>
+</slide><slide id="34">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide34.jpg</slideImage>
+<fileUrl>Slides/slide34.swf</fileUrl>
+<title><![CDATA[Summary]]></title>
+<slideText><![CDATA[ Summary ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>1680</totalframes>
+<time>00:01:24</time>
+</slide><slide id="35">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide35.jpg</slideImage>
+<fileUrl>Slides/slide35.swf</fileUrl>
+<title><![CDATA[Acknowledgments]]></title>
+<slideText><![CDATA[ Acknowledgments ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>200</totalframes>
+<time>00:00:10</time>
+</slide><slide id="36">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide36.jpg</slideImage>
+<fileUrl>Slides/slide36.swf</fileUrl>
+<title><![CDATA[Panel Discussion]]></title>
+<slideText><![CDATA[ Panel Discussion ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>13220</totalframes>
+<time>00:11:01</time>
+</slide><slide id="37">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide37.jpg</slideImage>
+<fileUrl>Slides/slide37.swf</fileUrl>
+<title><![CDATA[CNS Leukemia: Risk and Prevention]]></title>
+<slideText><![CDATA[ CNS Leukemia: Risk Factors and Prevention  Jorge Cortes, MD
+Professor of Medicine
+Department of Leukemia
+The University of Texas
+MD Anderson Cancer Center
+Houston, Texas ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>740</totalframes>
+<time>00:00:37</time>
+</slide><slide id="38">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide38.jpg</slideImage>
+<fileUrl>Slides/slide38.swf</fileUrl>
+<title><![CDATA[Disclosure of Conflicts of Interest]]></title>
+<slideText><![CDATA[ Disclosure of Conflicts of Interest ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>300</totalframes>
+<time>00:00:15</time>
+</slide><slide id="39">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide39.jpg</slideImage>
+<fileUrl>Slides/slide39.swf</fileUrl>
+<title><![CDATA[Principles of ALL Therapy]]></title>
+<slideText><![CDATA[ Principles of Acute Lymphocytic Leukemia (ALL) Therapy INDUCTION CONSOLIDATION
+
+INTENSIFICATION MAINTENANCE
+    CNS Prophylaxis HD Chemotherapy
+Reinduction
+Combination of new agents   VCR/Pred
+Anthracyclines
+Asparaginase
+Ara-C
+Cyclophosphamide
+
+HDAC
+HDM
+m-AMSA/mitoxantrone
+Etoposide/teniposide
+Allo/auto SCT
+
+
+6-Mercaptopurine
+Methotrexate
+Vincristine
+Steroids R I S K – O R I E N T E D  T H E R A P Y  ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>1320</totalframes>
+<time>00:01:06</time>
+</slide><slide id="40">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide40.jpg</slideImage>
+<fileUrl>Slides/slide40.swf</fileUrl>
+<title><![CDATA[CNS Prophylaxis in Adults: Rationale]]></title>
+<slideText><![CDATA[ Rationale for CNS Prophylaxis in Adult ALL CNS disease at diagnosis 
+Up to 5% childhood cases
+Up to 10% in adults (40% in Burkitt’s)
+Outcome variable
+CNS disease during disease course
+50%–75% without prophylaxis
+Prophylaxis: CNS relapse rate 5%–10% ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>1940</totalframes>
+<time>00:01:37</time>
+</slide><slide id="41">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide41.jpg</slideImage>
+<fileUrl>Slides/slide41.swf</fileUrl>
+<title><![CDATA[Diagnosis of ALL CNS Disease]]></title>
+<slideText><![CDATA[ Diagnosis of ALL CNS Disease ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>3380</totalframes>
+<time>00:02:49</time>
+</slide><slide id="42">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide42.jpg</slideImage>
+<fileUrl>Slides/slide42.swf</fileUrl>
+<title><![CDATA[Risk Factors for CNS Disease in ALL]]></title>
+<slideText><![CDATA[ Risk Factors for CNS Disease in  Acute Lymphocytic Leukemia ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>3540</totalframes>
+<time>00:02:57</time>
+</slide><slide id="43">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide43.jpg</slideImage>
+<fileUrl>Slides/slide43.swf</fileUrl>
+<title><![CDATA[Risk Factors for CNS Relapse]]></title>
+<slideText><![CDATA[ Risk Factors for CNS Relapse Mahmoud HH, et al. N Engl J Med. 1993;329:314-319.  ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>2300</totalframes>
+<time>00:01:55</time>
+</slide><slide id="44">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide44.jpg</slideImage>
+<fileUrl>Slides/slide44.swf</fileUrl>
+<title><![CDATA[Event-Free Survival by CSF Status]]></title>
+<slideText><![CDATA[ Event-Free Survival of ALL Patients by CSF Status te Loo, et al. J Clin Oncol. 2006;24:2332-2336.  1.0 0 CNS1 status
+CNS2 status Event-Free Survival Years After Diagnosis ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>1400</totalframes>
+<time>00:01:10</time>
+</slide><slide id="45">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide45.jpg</slideImage>
+<fileUrl>Slides/slide45.swf</fileUrl>
+<title><![CDATA[Model for Adult CNS Disease Risk]]></title>
+<slideText><![CDATA[ Model for Risk of CNS Disease in Adult ALL Kantarjian HM, et al. Blood. 1988;72:1784-1789.
+Kantarjian HM, et al. Am J Med. 1992;93:599-604. ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>2180</totalframes>
+<time>00:01:49</time>
+</slide><slide id="46">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide46.jpg</slideImage>
+<fileUrl>Slides/slide46.swf</fileUrl>
+<title><![CDATA[CNS Prophylaxis in Adult ALL]]></title>
+<slideText><![CDATA[ CNS Prophylaxis in Adult ALL Study: 62 patients randomized to IT MTX (N=23) or no prophylaxis (N=39)
+
+			No CNS
+CNS relapse 	IT MTX 	prophylaxis 	P value
+% relapse	11	32	0.03
+
+3-yr risk %	20	45	0.01 Omura GA, et al. Blood. 1980;55:199-204. ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>1060</totalframes>
+<time>00:00:53</time>
+</slide><slide id="47">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide47.jpg</slideImage>
+<fileUrl>Slides/slide47.swf</fileUrl>
+<title><![CDATA[Isolated CNS Disease Recurrence]]></title>
+<slideText><![CDATA[ Isolated CNS Disease Recurrence Ritchey AK, et al. J Clin Oncol. 1999;17:3745-3752.
+Mandelli F, et al. Br J Haematol. 1996;92:665-672.
+Surapaneni UR, et al. Cancer. 2002;94:773-779. ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>1300</totalframes>
+<time>00:01:05</time>
+</slide><slide id="48">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide48.jpg</slideImage>
+<fileUrl>Slides/slide48.swf</fileUrl>
+<title><![CDATA[MD Anderson: CNS Disease in ALL]]></title>
+<slideText><![CDATA[ MD Anderson Experience:  CNS Disease in ALL CNS relapse identified in 32/527 (6%) pts
+53% no neurologic symptoms (routine LP)
+44% cranial nerve palsies
+47% WBC &lt; 5/L, but CSF lymphoblasts 
+Median time to relapse, 3 years
+53% isolated CNS recurrence
+24% with BM recurrence
+27% after CNS recurrence
+Median survival from CNS relapse, 6 months 
+28% of patients alive at 1 year Surapaneni UR, et al. Cancer. 2002;94:773-779. ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>1060</totalframes>
+<time>00:00:53</time>
+</slide><slide id="49">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide49.jpg</slideImage>
+<fileUrl>Slides/slide49.swf</fileUrl>
+<title><![CDATA[Modalities of CNS Therapy]]></title>
+<slideText><![CDATA[ Modalities of CNS Prophylaxis and Therapy in ALL Cranial or craniospinal irradiation
+Intrathecal chemotherapy (cytarabine, methotrexate, corticosteroids)
+Single agent
+Alternating
+Triple intrathecal therapy
+High-dose systemic chemotherapy
+Methotrexate 
+Cytarabine (conventional, liposomal)
+Thiotepa ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>1160</totalframes>
+<time>00:00:58</time>
+</slide><slide id="50">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide50.jpg</slideImage>
+<fileUrl>Slides/slide50.swf</fileUrl>
+<title><![CDATA[Outcome With CNS Prophylaxis]]></title>
+<slideText><![CDATA[ Outcome With CNS Prophylaxis in ALL Durrant IJ, Richards SM. Br J Haematol. 1993;85:84-92.
+Linker CA, et al. Blood. 1991;78:2814-2822.
+Radford JE Jr, et al. J Clin Oncol. 1989;7:58-66.
+Larson RA, et al. Blood. 1995;85:2025-2037.  Hoelzer D, et al. Blood. 1988;71:123-131. ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>520</totalframes>
+<time>00:00:26</time>
+</slide><slide id="51">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide51.jpg</slideImage>
+<fileUrl>Slides/slide51.swf</fileUrl>
+<title><![CDATA[Outcome With CNS Prophylaxis: Adult]]></title>
+<slideText><![CDATA[ Outcome With CNS Prophylaxis in Adult Acute Lymphocytic Leukemia Cassileth PA, et al. Leukemia. 1992;6:178-181.
+Mandelli F, et al. Br J Haematol. 1996;92:665-672.
+Kantarjian HM, et al. J Clin Oncol. 2000;18:547-561.
+Lluesma-Goñalons M, et al. Ann Oncol. 1991;2:33-39. ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>380</totalframes>
+<time>00:00:19</time>
+</slide><slide id="52">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide52.jpg</slideImage>
+<fileUrl>Slides/slide52.swf</fileUrl>
+<title><![CDATA[10-Year EFS After CNS Radiation]]></title>
+<slideText><![CDATA[ Cumulative Incidence of AEs in 10-Year EFS of Childhood ALL by Use of CNS Irradiation Second Neoplasm
+P = 0.022 0.3 0.25 0.2 0.15 0.1 0.05 0 Cumulative Incidence Years From Attaining Initial Continuous Remission 10 15 20 25 30 35 40 21.1% ± 4.0% Irradiated 8.1% ± 1.5% 1.0% ± 4.0% Non-irradiated 4.7% ± 1.0% Pui CH, et al. N Engl J Med. 2003;349:640-649. ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>920</totalframes>
+<time>00:00:46</time>
+</slide><slide id="53">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide53.jpg</slideImage>
+<fileUrl>Slides/slide53.swf</fileUrl>
+<title><![CDATA[CNS Disease by Treatment: Adult ALL]]></title>
+<slideText><![CDATA[ CNS Disease by Treatment in Adult ALL Cortes J, et al. Blood. 1995;86:2091-2097.  ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>1420</totalframes>
+<time>00:01:11</time>
+</slide><slide id="54">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide54.jpg</slideImage>
+<fileUrl>Slides/slide54.swf</fileUrl>
+<title><![CDATA[Therapy Without Cranial Radiation]]></title>
+<slideText><![CDATA[ ALL Therapy Without Cranial Irradiation 498 pediatric pts treated according to risk
+IT chemotherapy: Low-risk: 13-18 IT, Standard-risk: 16-25 IT
+CR 99%, 5-yr EFS 86%, OS 94%
+5-yr isolated CNS relapse 2.7%
+Any CNS relapse 3.9%
+All isolated CNS relapse in 2nd CR 0.4–55 yrs
+5-yr continued CR 91% vs 73% historical controls treated with CS XRT
+Risk factors for CNS relapse: t(1;19)(TCF3-PBX1), CNS involvement at diagnosis, and T-cell Pui CH, et al. N Engl J Med. 2009;360:2730-2741. ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>1380</totalframes>
+<time>00:01:09</time>
+</slide><slide id="55">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide55.jpg</slideImage>
+<fileUrl>Slides/slide55.swf</fileUrl>
+<title><![CDATA[Triple Therapy vs Methotrexate]]></title>
+<slideText><![CDATA[ Intrathecal (IT) Triple Therapy vs IT Methotrexate for CNS Prophylaxis in Pediatric ALL Matloub Y, et al. Blood. 2006;108:1165-1173. ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>1660</totalframes>
+<time>00:01:23</time>
+</slide><slide id="56">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide56.jpg</slideImage>
+<fileUrl>Slides/slide56.swf</fileUrl>
+<title><![CDATA[Dexamethasone vs Prednisone]]></title>
+<slideText><![CDATA[ Dexamethasone vs Prednisone in ALL Bostrom BC, et al. Blood. 2003;101:3809-3817. ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>1480</totalframes>
+<time>00:01:14</time>
+</slide><slide id="57">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide57.jpg</slideImage>
+<fileUrl>Slides/slide57.swf</fileUrl>
+<title><![CDATA[Hyper-CVAD Regimen]]></title>
+<slideText><![CDATA[ Hyper-CVAD Regimen in ALL Hyper-CVAD (courses 1, 3, 5, 7)
+Cyclophosphamide 300 mg/m2 Q12H days 1–3
+Doxorubicin 50 mg/m2 day 4
+Vincristine 2 mg IV days 4, 11
+Dexamethasone 40 mg days 1–4, 11–14
+MTX + ara-C  (Courses 2, 4, 6, 8)
+Methotrexate 1 g/m2 day 1, leucovorin
+Ara-C 3 g/m2 Q12H x 4  days 2, 3 (1 g/m2 if aged 60 or older) 
+Methylprednisolone 50 mg IV Q12H  6 Kantarjian HM, et al. J Clin Oncol. 2000;18:547-561. ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>500</totalframes>
+<time>00:00:25</time>
+</slide><slide id="58">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide58.jpg</slideImage>
+<fileUrl>Slides/slide58.swf</fileUrl>
+<title><![CDATA[Intrathecal Therapy With Hyper-CVAD Regimen]]></title>
+<slideText><![CDATA[ Hyper-CVAD Regimen in ALL CNS prophylaxis by risk model
+MTX 12 mg (6 if via Ommaya) day 2
+Ara-C 100 mg day 7 
+Low risk (low LDH, S + G2M): 4 ITs
+Indeterminate risk (one feature not known, one other low): 8 ITs
+High risk (one or both elevated): 16 ITs Kantarjian HM, et al. J Clin Oncol. 2000;18:547-561. ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>760</totalframes>
+<time>00:00:38</time>
+</slide><slide id="59">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide59.jpg</slideImage>
+<fileUrl>Slides/slide59.swf</fileUrl>
+<title><![CDATA[CNS Relapse With Hyper-CVAD Regimen]]></title>
+<slideText><![CDATA[ Hyper-CVAD Regimen for ALL (N=204) Kantarjian HM, et al. J Clin Oncol. 2000;18:547-561. ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>600</totalframes>
+<time>00:00:30</time>
+</slide><slide id="60">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide60.jpg</slideImage>
+<fileUrl>Slides/slide60.swf</fileUrl>
+<title><![CDATA[Liposomal Cytarabine Prophylaxis]]></title>
+<slideText><![CDATA[ Liposomal Cytarabine for CNS Prophylaxis and Treatment in ALL Longer half-life (141 hrs vs 3.4 hrs)
+Clinical responses in ALL and AML
+Maximum tolerated dose
+Children: 35 mg
+Adults: 50 mg
+Concomitant administration of dexamethasone
+Caution with concomitant administration of chemotherapy that crosses blood–brain barrier
+Factors associated with neurologic toxicity: 
+Age, dose, concomitant administration of IT prednisone ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>980</totalframes>
+<time>00:00:49</time>
+</slide><slide id="61">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide61.jpg</slideImage>
+<fileUrl>Slides/slide61.swf</fileUrl>
+<title><![CDATA[Ventricular CSF Pharmacokinetics]]></title>
+<slideText><![CDATA[ Ventricular CSF Pharmacokinetics   CSF=cerebrospinal fluid; MTX=methotrexate; MIC=minimal inhibitory concentration; ara-C 50 mg from depot formulation=free cytarabine released from DepoCyt. Adapted from Bleyer WA. Clin Cancer Res. 1999;5:3349-3351; with permission. ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>280</totalframes>
+<time>00:00:14</time>
+</slide><slide id="62">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide62.jpg</slideImage>
+<fileUrl>Slides/slide62.swf</fileUrl>
+<title><![CDATA[DepoCyt vs Intrathecal Ara-C]]></title>
+<slideText><![CDATA[ DepoCyt vs IT ara-C for Lymphomatous Meningitis *All patients received dexamethasone 4 mg PO BID on days 1–5. Glantz MJ, et al. J Clin Oncol. 1999;17:3110-3116. ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>660</totalframes>
+<time>00:00:33</time>
+</slide><slide id="63">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide63.jpg</slideImage>
+<fileUrl>Slides/slide63.swf</fileUrl>
+<title><![CDATA[DepoCyt for CNS Prophylaxis]]></title>
+<slideText><![CDATA[ DepoCyt for CNS Prophylaxis of Adult ALL 31 adults with ALL 
+Risk group: 7 low, 24 indeterminate or high, 2 Burkitt’s
+Liposomal cytarabine 50 mg IT
+Days 2 and 15 odd cycles, day 10 of even cycles
+Total IT per risk group: 16  10, 8  5, 6  3
+No isolated CNS relapse
+Adverse events: 
+Headache 39%
+Neurotoxicity 16% 
+Cauda equina (n=2), seizures, pseudotumor cerebri, encephalitis (n=1 each) Jabbour E, et al. Blood. 2007;109:3214-3218. ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>620</totalframes>
+<time>00:00:31</time>
+</slide><slide id="64">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide64.jpg</slideImage>
+<fileUrl>Slides/slide64.swf</fileUrl>
+<title><![CDATA[CNS Prophylaxis in Adult ALL]]></title>
+<slideText><![CDATA[ CNS Prophylaxis in Adult ALL Dual prophylaxis needed:
+IT chemotherapy (Ara-C, MTX, steroids)
+HD systemic chemotherapy 
+Avoid XRT
+6 to 8 IT doses; start with induction Rx
+B cell: 16 IT doses
+Triple therapy: improved CNS relapse rate but not EFS or OS (vs IT MTX alone) 
+CNS disease: 2 IT/wk until CR, weekly  8, monthly  12
+Systemic chemotherapy needed
+Cranial nerve palsies  XRT ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>760</totalframes>
+<time>00:00:38</time>
+</slide><slide id="65">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide65.jpg</slideImage>
+<fileUrl>Slides/slide65.swf</fileUrl>
+<title><![CDATA[CNS Prophylaxis: Conclusions]]></title>
+<slideText><![CDATA[ CNS Prophylaxis in Adult ALL:  Conclusions Regimens without cranial irradiation effective
+High-dose systemic therapy 
+Early introduction of IT prophylaxis
+Intrathecal MTX alone or alternating with ara-C effective without need for IT triple therapy
+Risk-oriented approach optimal
+Minimal risk of relapse with adequate prophylaxis ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>1580</totalframes>
+<time>00:01:19</time>
+</slide><slide id="66">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide66.jpg</slideImage>
+<fileUrl>Slides/slide66.swf</fileUrl>
+<title><![CDATA[Panel Discussion]]></title>
+<slideText><![CDATA[ Panel Discussion ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>16220</totalframes>
+<time>00:13:31</time>
+</slide><slide id="67">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide67.jpg</slideImage>
+<fileUrl>Slides/slide67.swf</fileUrl>
+<title><![CDATA[Role of Allogeneic Transplant]]></title>
+<slideText><![CDATA[ The Role of Allogeneic Transplantation for Adults With Acute Lymphoblastic Leukemia (ALL) in First Complete Remission  Richard A. Larson, MD
+Professor Of Medicine
+University of Chicago
+Chicago, Illinois ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>240</totalframes>
+<time>00:00:12</time>
+</slide><slide id="68">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide68.jpg</slideImage>
+<fileUrl>Slides/slide68.swf</fileUrl>
+<title><![CDATA[Disclosure of Conflicts of Interest]]></title>
+<slideText><![CDATA[ Disclosure of Conflicts of Interest ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>400</totalframes>
+<time>00:00:20</time>
+</slide><slide id="69">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide69.jpg</slideImage>
+<fileUrl>Slides/slide69.swf</fileUrl>
+<title><![CDATA[Central Paradox for Transplantation]]></title>
+<slideText><![CDATA[ Central Paradox for Transplantation ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>1300</totalframes>
+<time>00:01:05</time>
+</slide><slide id="70">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide70.jpg</slideImage>
+<fileUrl>Slides/slide70.swf</fileUrl>
+<title><![CDATA[Arguments for Risk-Adapted Therapy]]></title>
+<slideText><![CDATA[ Arguments for Risk-Adapted Therapy for ALL ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>1020</totalframes>
+<time>00:00:51</time>
+</slide><slide id="71">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide71.jpg</slideImage>
+<fileUrl>Slides/slide71.swf</fileUrl>
+<title><![CDATA[Age-Specific Annual Incidence: SEER]]></title>
+<slideText><![CDATA[ Age-Specific Annual Incidence of ALL (US SEER Data, 1998–2002)   Transplant eligible National Cancer Institute. http://seer.cancer.gov/statfacts/html/alyl.html.  ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>1020</totalframes>
+<time>00:00:51</time>
+</slide><slide id="72">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide72.jpg</slideImage>
+<fileUrl>Slides/slide72.swf</fileUrl>
+<title><![CDATA[Risk Assessment in ALL]]></title>
+<slideText><![CDATA[ Risk Assessment in ALL Larson (CALGB 8811/9111), 1997. CALGB=Cancer and Leukemia Group B; WBC=white blood cell count. ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>900</totalframes>
+<time>00:00:45</time>
+</slide><slide id="73">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide73.jpg</slideImage>
+<fileUrl>Slides/slide73.swf</fileUrl>
+<title><![CDATA[Impact of 5 Clinical Features]]></title>
+<slideText><![CDATA[ Impact of 5 Clinical Features ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>780</totalframes>
+<time>00:00:39</time>
+</slide><slide id="74">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide74.jpg</slideImage>
+<fileUrl>Slides/slide74.swf</fileUrl>
+<title><![CDATA[Standard-Risk ALL]]></title>
+<slideText><![CDATA[ 'Standard-Risk ALL' ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>740</totalframes>
+<time>00:00:37</time>
+</slide><slide id="75">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide75.jpg</slideImage>
+<fileUrl>Slides/slide75.swf</fileUrl>
+<title><![CDATA[Other Important Risk Factors]]></title>
+<slideText><![CDATA[ Other Important Risk Factors Unfavorable		Favorable ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>1000</totalframes>
+<time>00:00:50</time>
+</slide><slide id="76">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide76.jpg</slideImage>
+<fileUrl>Slides/slide76.swf</fileUrl>
+<title><![CDATA[ALL Is a Heterogeneous Disease]]></title>
+<slideText><![CDATA[ ALL Is a Heterogeneous Disease  of Distinct Subtypes Wetzler M, et al (CALGB), 1998.
+Kebriaei P, et al. Curr Opin Hematol. 2003;10:284-289. Unfavorable		Favorable ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>840</totalframes>
+<time>00:00:42</time>
+</slide><slide id="77">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide77.jpg</slideImage>
+<fileUrl>Slides/slide77.swf</fileUrl>
+<title><![CDATA[CALGB: Treatment Outcomes by Age]]></title>
+<slideText><![CDATA[ 15% 59% 39% Ben Sanford (CALGB), 2008; unpublished data. Treatment Outcome by Age Cohort (6 CALGB Studies of Adults With ALL, 1988–2007 [N=1059]) ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>1580</totalframes>
+<time>00:01:19</time>
+</slide><slide id="78">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide78.jpg</slideImage>
+<fileUrl>Slides/slide78.swf</fileUrl>
+<title><![CDATA[Chemotherapy vs Transplant in CR1]]></title>
+<slideText><![CDATA[ Chemotherapy Compared With Bone Marrow Transplantation for ALL in First Complete Remission (CR1) Horowitz MM, et al. Ann Intern Med. 1991;115:13-18. ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>900</totalframes>
+<time>00:00:45</time>
+</slide><slide id="79">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide79.jpg</slideImage>
+<fileUrl>Slides/slide79.swf</fileUrl>
+<title><![CDATA[Disease-Free Survival by Modality]]></title>
+<slideText><![CDATA[ Chemotherapy Compared With Bone Marrow Transplantation for ALL in CR1  Horowitz MM, et al. Ann Intern Med. 1991;115:13-18. Zhang MJ, et al. Ann Intern Med. 1995;123:428-431. ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>740</totalframes>
+<time>00:00:37</time>
+</slide><slide id="80">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide80.jpg</slideImage>
+<fileUrl>Slides/slide80.swf</fileUrl>
+<title><![CDATA[French Multicenter Study LALA-87]]></title>
+<slideText><![CDATA[ French Multicenter Study LALA-87 Fière D, et al. J Clin Oncol. 1993;11:1990-2001.
+Sebban C, et al. J Clin Oncol. 1994;12:2580-2587.
+Thiebaut A, et al. Hematol Oncol Clin North Am. 2000;14:1353-1366. ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>1140</totalframes>
+<time>00:00:57</time>
+</slide><slide id="81">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide81.jpg</slideImage>
+<fileUrl>Slides/slide81.swf</fileUrl>
+<title><![CDATA[LALA-87: BMT and Improved Survival]]></title>
+<slideText><![CDATA[ French Multicenter Study LALA-87 Fière D, et al. J Clin Oncol. 1993;11:1990-2001.
+Thiebaut A, et al. Hematol Oncol Clin North Am. 2000;14:1353-1366. ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>580</totalframes>
+<time>00:00:29</time>
+</slide><slide id="82">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide82.jpg</slideImage>
+<fileUrl>Slides/slide82.swf</fileUrl>
+<title><![CDATA[BMT With Standard Risk: No Advantage]]></title>
+<slideText><![CDATA[ French Multicenter Study LALA-87   Fière D, et al. J Clin Oncol. 1993;11:1990-2001.
+Thiebaut A, et al. Hematol Oncol Clin North Am. 2000;14:1353-1366. ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>600</totalframes>
+<time>00:00:30</time>
+</slide><slide id="83">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide83.jpg</slideImage>
+<fileUrl>Slides/slide83.swf</fileUrl>
+<title><![CDATA[French Multicenter Study LALA-94]]></title>
+<slideText><![CDATA[ French Multicenter Study LALA-94 Data analyzed from 922 newly diagnosed ALL patients
+Ages 15–55 years; median, 33 years
+23% had Ph+ ALL or BCR/ABL+
+Overall survival = 33% at 5 years
+771 (84%) achieved CR
+89% for T-ALL
+86% for Ph-negative B-lineage ALL Thomas X, et al. J Clin Oncol. 2004;22:4075-4086. ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>620</totalframes>
+<time>00:00:31</time>
+</slide><slide id="84">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide84.jpg</slideImage>
+<fileUrl>Slides/slide84.swf</fileUrl>
+<title><![CDATA[LALA-94: DFS by Genetic Risk]]></title>
+<slideText><![CDATA[ French Multicenter Study LALA-94  Disease-Free Survival According to Genetic Randomization    211 clinically high-risk patients (none with Ph+ ALL) and 48 CNS+ patients were pooled 
+ Sibling donor group comprised 100 patients; no sibling donor group included 159 patients    Thomas X, et al. J Clin Oncol. 2004;22:4075-4086. ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>1500</totalframes>
+<time>00:01:15</time>
+</slide><slide id="85">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide85.jpg</slideImage>
+<fileUrl>Slides/slide85.swf</fileUrl>
+<title><![CDATA[Superior Outcomes With Sibling Donor]]></title>
+<slideText><![CDATA[ French Multicenter Study LALA-94  Disease-Free Survival According to Genetic Randomization  Thomas X, et al. J Clin Oncol. 2004;22:4075-4086; with permission.  211 clinically high-risk patients (none with Ph+ ALL) and 48 CNS+ patients were pooled 
+ Sibling donor group comprised 100 patients; no sibling donor group included 159 patients  ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>380</totalframes>
+<time>00:00:19</time>
+</slide><slide id="86">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide86.jpg</slideImage>
+<fileUrl>Slides/slide86.swf</fileUrl>
+<title><![CDATA[No Benefit for Allogeneic HCT]]></title>
+<slideText><![CDATA[ Most Comparative Studies Show No Benefit for Allogeneic HCT for ALL in CR1  ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>640</totalframes>
+<time>00:00:32</time>
+</slide><slide id="87">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide87.jpg</slideImage>
+<fileUrl>Slides/slide87.swf</fileUrl>
+<title><![CDATA[MRC/ECOG Study: UKALLXII/E2993]]></title>
+<slideText><![CDATA[ MRC/ECOG Study UKALLXII/E2993 1913 newly diagnosed ALL patients enrolled
+Age up to 65 years
+After CR, 1031 Ph-negative ALL patients &lt;55 years old
+Those with a matched sibling donor were assigned to allogeneic HCT (443 with donors)
+Those without a sibling donor were randomized to autologous HCT or chemotherapy (588 no donors)
+High risk includes:
+Age &gt;35 years
+WBC count &gt;30,000/µl for B-lineage ALL, and &gt;100,000/µl for T-ALL
+ Rowe JM, et al. Presented at the 51st American Society of Hematology Annual Meeting; December 9-12, 2006; Orlando, FL. 
+Goldstone AH, et al. Blood. 2008;111:1827-1833. ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>1940</totalframes>
+<time>00:01:37</time>
+</slide><slide id="88">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide88.jpg</slideImage>
+<fileUrl>Slides/slide88.swf</fileUrl>
+<title><![CDATA[Donor vs No Donor in Ph-Negative ALL]]></title>
+<slideText><![CDATA[ MRC/ECOG Study UKALLXII/E2993 Rowe JM, et al. Presented at the 51st American Society of Hematology Annual Meeting; December 9-12, 2006; Orlando, FL. 
+Goldstone AH, et al. Blood. 2008;111:1827-1833.       ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>660</totalframes>
+<time>00:00:33</time>
+</slide><slide id="89">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide89.jpg</slideImage>
+<fileUrl>Slides/slide89.swf</fileUrl>
+<title><![CDATA[No Advantage in High-Risk Group]]></title>
+<slideText><![CDATA[ MRC/ECOG Study UKALLXII/E2993  Rowe JM, et al. Presented at the 51st American Society of Hematology Annual Meeting; December 9-12, 2006; Orlando, FL.
+Goldstone AH, et al. Blood. 2008;111:1827-1833. ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>1760</totalframes>
+<time>00:01:28</time>
+</slide><slide id="90">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide90.jpg</slideImage>
+<fileUrl>Slides/slide90.swf</fileUrl>
+<title><![CDATA[Censoring at Time of Autologous HCT]]></title>
+<slideText><![CDATA[ MRC/ECOG Study UKALLXII/E2993  Censoring at the Time of Autologous HCT in CR1 Rowe JM, et al. Presented at the 51st American Society of Hematology Annual Meeting; December 9-12, 2006; Orlando, FL.
+Goldstone AH, et al. Blood. 2008;111:1827-1833. ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>400</totalframes>
+<time>00:00:20</time>
+</slide><slide id="91">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide91.jpg</slideImage>
+<fileUrl>Slides/slide91.swf</fileUrl>
+<title><![CDATA[No Advantage in High-Risk Group]]></title>
+<slideText><![CDATA[ MRC/ECOG Study UKALLXII/E2993  Censoring at the Time of Autologous HCT in CR1     Rowe JM, et al. Presented at the 51st American Society of Hematology Annual Meeting; December 9-12, 2006; Orlando, FL.
+Goldstone AH, et al. Blood. 2008;111:1827-1833. ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>580</totalframes>
+<time>00:00:29</time>
+</slide><slide id="92">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide92.jpg</slideImage>
+<fileUrl>Slides/slide92.swf</fileUrl>
+<title><![CDATA[MRC/ECOG Trial]]></title>
+<slideText><![CDATA[ The MRC/ECOG Trial 	Although the intention-to-treat was allogeneic HCT for as many Ph-negative ALL patients as possible, the overall results for all 1418 patients are no better than most contemporary chemotherapy trials.     ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>1360</totalframes>
+<time>00:01:08</time>
+</slide><slide id="93">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide93.jpg</slideImage>
+<fileUrl>Slides/slide93.swf</fileUrl>
+<title><![CDATA[Allogeneic HCT in Second Remission]]></title>
+<slideText><![CDATA[ Allogeneic HCT Can Rescue Patients in Second Complete Remission (CR2) Jamieson CH, et al. Exp Hematol. 2003;31:981-986. ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>720</totalframes>
+<time>00:00:36</time>
+</slide><slide id="94">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide94.jpg</slideImage>
+<fileUrl>Slides/slide94.swf</fileUrl>
+<title><![CDATA[Allogeneic HCT Can Rescue in CR2]]></title>
+<slideText><![CDATA[ Allogeneic HCT Can Rescue Patients in CR2 ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>340</totalframes>
+<time>00:00:17</time>
+</slide><slide id="95">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide95.jpg</slideImage>
+<fileUrl>Slides/slide95.swf</fileUrl>
+<title><![CDATA[Chemotherapy Results Improving]]></title>
+<slideText><![CDATA[ Chemotherapy Results Are Improving  in Younger Adults *14 patients were censored at HCT in CR1. Usvasalo A, et al. Haematologica. 2008;93:1161-1168.
+**2-year estimates. DeAngelo DJ, et al. Blood. 2007;109;5136-5142 [abstract 587].
+***Ribera JM, et al. J Clin Oncol. 2008;26:1843-1849.
+§ 4-year estimates. Haiat S, et al. Blood. 2007;110:2822. ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>1100</totalframes>
+<time>00:00:55</time>
+</slide><slide id="96">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide96.jpg</slideImage>
+<fileUrl>Slides/slide96.swf</fileUrl>
+<title><![CDATA[Who Should Receive Allogeneic HCT?]]></title>
+<slideText><![CDATA[ Who Should Receive Allogeneic HCT in 2009–2010? 		        YES
+
+High risk ALL in CR1
+Ph+ ALL
+t(4;11); Pro-B
+30-60 years old (perhaps &gt;60 years old)
+High WBC count
+&gt;30,000 for prec-B
+Relapsed/refractory ALL 		        NO
+
+Burkitt leukemia
+T-cell ALL
+Adolescents and young adults
+Standard-risk ALL ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>2360</totalframes>
+<time>00:01:58</time>
+</slide><slide id="97">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide97.jpg</slideImage>
+<fileUrl>Slides/slide97.swf</fileUrl>
+<title><![CDATA[Summary]]></title>
+<slideText><![CDATA[ Summary ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>760</totalframes>
+<time>00:00:38</time>
+</slide><slide id="98">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide98.jpg</slideImage>
+<fileUrl>Slides/slide98.swf</fileUrl>
+<title><![CDATA[Panel Discussion]]></title>
+<slideText><![CDATA[ Panel Discussion ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>18440</totalframes>
+<time>00:15:22</time>
+</slide><slide id="99">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide99.jpg</slideImage>
+<fileUrl>Slides/slide99.swf</fileUrl>
+<title><![CDATA[Pediatric Survival Over 3 Decades]]></title>
+<slideText><![CDATA[ 0 5 10 15 Years From Study Entry No. Patients Years of Accrual Survival of 18,772 Pediatric Patients With ALL Treated on Sequential CCG Clinical Trials Over Three Decades 20 40 60 100 80 No  New Drugs
+ ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>1400</totalframes>
+<time>00:01:10</time>
+</slide><slide id="100">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide100.jpg</slideImage>
+<fileUrl>Slides/slide100.swf</fileUrl>
+<title><![CDATA[Pediatric vs Adult Therapy]]></title>
+<slideText><![CDATA[  ALL Patients, Ages 15–21 Pediatric vs ‘Adult’ Therapy  North America EFS CCG-1800 Series (Pediatric)  CALGB 8811-9511 (Adult)  0 2 4 6 8 10 100% 80% 60% 40% 20% 0% Age 16-20 Years (N = 103) 20-29 Years (N = 123) Age 16-21 Years (N = 175) ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>1300</totalframes>
+<time>00:01:05</time>
+</slide><slide id="101">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide101.jpg</slideImage>
+<fileUrl>Slides/slide101.swf</fileUrl>
+<title><![CDATA[Pediatric vs Adult Oncologists]]></title>
+<slideText><![CDATA[]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>740</totalframes>
+<time>00:00:37</time>
+</slide><slide id="102">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide102.jpg</slideImage>
+<fileUrl>Slides/slide102.swf</fileUrl>
+<title><![CDATA[Can Adult Oncologists Do Better?]]></title>
+<slideText><![CDATA[ Can Adult Oncologists Do Better? Extending the Pediatric Approach to Young Adults 
+ 6-year EFS = 60% 6-year OS 
+  Adolescents = 77%
+  Young Adults = 63%
+	P=NS Ribera JM, et al. J Clin Oncol. 2008;26:1843-1849; with permission. ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>1700</totalframes>
+<time>00:01:25</time>
+</slide><slide id="103">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide103.jpg</slideImage>
+<fileUrl>Slides/slide103.swf</fileUrl>
+<title><![CDATA[Why Are Some Patients Cured?]]></title>
+<slideText><![CDATA[ Why Are Some Patients Cured? Sufficient cytoreduction by chemotherapy
+Unique sensitivity of the clonogenic leukemia stem cell 
+Re-expression of genes suppressed by mutations (reversal of epigenetic suppression??)
+Differentiation of leukemia: 'clonal remissions'
+Recovery of immune surveillance—elimination/suppression of residual disease
+ ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>4620</totalframes>
+<time>00:03:51</time>
+</slide><slide id="104">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide104.jpg</slideImage>
+<fileUrl>Slides/slide104.swf</fileUrl>
+<title><![CDATA[Obtaining Your CME Certificate]]></title>
+<slideText><![CDATA[  Thank you for completing this educational activity. Please click on 'Earn CME/CE Credit' tab on the homepage of this activity to complete the learning assessment and evaluation form to receive your certificate. ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>700</totalframes>
+<time>00:00:35</time>
+</slide></slides>
+</presentation>

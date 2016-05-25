@@ -1,0 +1,86 @@
+<%@ Master Language="VB" CodeFile="Home.master.vb" Inherits="templates_1_Home" EnableViewState="false" %>
+<%@ Register Src="Includes/Header.ascx" TagName="Header" TagPrefix="uc1" %>
+<%@ Register Src="Includes/Footer.ascx" TagName="Footer" TagPrefix="uc1" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head runat="server">
+    <title></title>
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+    <link rel="stylesheet" type="text/css" href="/Collateral/Templates/English-US/reset.css" />
+
+    <script type="text/javascript" src="/Collateral/Templates/Common/swfobject.js"></script>
+
+</head>
+<body>
+
+
+<div id="container">
+	<div id="homeWrapper">
+	  <div id="header">
+			<uc1:Header ID="Header1" runat="server" />
+		</div>
+		<div id="homeMain">
+			<div><img class="imgBlock" src="/Collateral/Templates/English-US/images/hometop_top.gif" alt="" border="0" /></div>
+			<div id="homeTop">
+				<div id="homeTopLeft">
+					<template:Content ID="Content7" runat="server" PageID="1379" />
+				</div>
+				<div id="homeTopRight">
+					<div id="flashContent">
+						<img src="/Collateral/Templates/English-US/images/home_flash.jpg" width="681" height="252" alt="" border="0" />
+					</div>
+					<script type="text/javascript">
+						var flashvars = {};
+						flashvars._parmPanelURL1 = "";
+						flashvars._parmPanelURL2 = "";
+						flashvars._parmPanelURL3 = "";
+						flashvars._parmPanelURL4 = "";
+						flashvars._parmPanelURL5 = "";
+						flashvars._parmAutoPlayInterval = "6";
+						var params = {};
+						params.wmode = "transparent";
+						params.scale = "showall";
+						params.quality = "high";
+						var attributes = {};
+						swfobject.embedSWF("/flash/RMEI-main.swf", "flashContent", "678", "310", "9.0.0", "expressInstall.swf", flashvars, params, attributes);
+					</script>
+					<div id="homeTopRightBoxes">
+						<div id="homeTopRightA">
+							<template:Content ID="Content1" runat="server" PageID="1316" />
+						</div>
+						<div id="homeTopRightB">
+							<template:Content ID="Content2" runat="server" PageID="1317" />
+						</div>
+						<div id="homeTopRightC">
+							<template:Content ID="Content3" runat="server" PageID="1318" />
+						</div>
+					</div>
+				</div>
+				<div class="clear"></div>
+			</div>
+			<div style="clear:both;"><img class="imgBlock" src="/Collateral/Templates/English-US/images/hometop_btm.gif" alt="" border="0" /></div>
+			<div id="homeBottom">
+				<div id="homeBottomA">
+					<template:Content ID="Content4" runat="server" PageID="1319" />
+				</div>
+				<div id="homeBottomB">
+					<template:Content ID="Content5" runat="server" PageID="1320" />
+				</div>
+				<div id="homeBottomC">
+					<template:Content ID="Content6" runat="server" PageID="1321" />
+				</div>
+				<div class="clear"></div>
+			</div>
+			<div style="clear:both;"><img class="imgBlock" src="/Collateral/Templates/English-US/images/homebottom_btm.gif" alt="" border="0" /></div>
+		</div>
+		<div id="footer">
+			<uc1:Footer ID="Footer1" runat="server" />
+		</div>
+		<div class="clear"></div>
+	</div>
+</div>
+
+<template:Content ID="GoogleAnalytics" runat="server" ContentName="Google Analytics Code" />
+</body>
+</html>

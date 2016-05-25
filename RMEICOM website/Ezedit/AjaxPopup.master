@@ -1,0 +1,41 @@
+<%@ Master Language="VB" CodeFile="AjaxPopup.master.vb" Inherits="Ezedit_AjaxPopup" %>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <link id="Link1" href="~/App_Themes/Ezedit/EzEdit.css" rel="stylesheet" type="text/css"
+        runat="server" />
+    <link id="Link2" href="~/templates/common/AJAXstyles.css" rel="stylesheet" type="text/css"
+        runat="server" />
+    <link rel="stylesheet" type="text/css" href="/Collateral/templates/English-US/styles.css" />
+
+    <script language="javascript">
+    function CloseAndRebind() {
+        GetRadWindow().BrowserWindow.refreshData(null);   
+        GetRadWindow().Close();
+    }
+    
+    function GetRadWindow() {   
+        var oWindow = null;   
+        if (window.radWindow) oWindow = window.radWindow; //Will work in Moz in all cases, including clasic dialog   
+        else if (window.frameElement.radWindow) oWindow = window.frameElement.radWindow;//IE (and Moz az well)   
+               
+        return oWindow;   
+    }   
+  
+    function Close() {   
+        GetRadWindow().Close();        
+    }   
+    </script>
+
+</head>
+<body class="popupBG">
+    <form id="form1" runat="server">
+        <div>
+            <asp:Label ID="lblPageTitle" runat="server" CssClass="pageTitle"></asp:Label>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+</body>
+</html>

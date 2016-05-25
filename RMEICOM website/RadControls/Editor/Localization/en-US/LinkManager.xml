@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<localization>
+	<string id="Title">Hyperlink Manager</string>
+	<string id="Tab1HeaderText">Hyperlink</string>
+	<string id="Tab2HeaderText">Anchor</string>
+	<string id="Tab3HeaderText">E-mail</string>
+	<string id="LinkUrl">URL:</string>
+	<string id="LinkType">Type:</string>
+	<string id="Other">other</string>
+	<string id="LinkTarget">Target:</string>
+	<string id="Target">Target</string>
+	<string id="LinkTooltip">Tooltip:</string>
+	<string id="LinkName">Name:</string>
+	<string id="LinkAddress">Address:</string>
+	<string id="LinkSubject">Subject:</string>
+	<string id="OK">OK</string>
+	<string id="Cancel">Cancel</string>
+	<string id="CssClass">CSS Class:</string>
+	<string id="AnchorCss">Link CSS</string>
+	<string id="LinkText">Link Text:</string>
+	<string id="ClearStyle">No Class</string>
+	<string id="LinkToAnchor">Existing Anchor:</string>
+	<string id="AnchorNone">None</string>	
+</localization>

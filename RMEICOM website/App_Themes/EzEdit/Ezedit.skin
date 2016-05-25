@@ -1,0 +1,83 @@
+<%--
+Default skin template. The following skins are provided as examples only.
+
+1. Named control skin. The SkinId should be uniquely defined because
+   duplicate SkinId's per control type are not allowed in the same theme.
+
+<asp:GridView runat="server" SkinId="gridviewSkin" BackColor="White" >
+   <AlternatingRowStyle BackColor="Blue" />
+</asp:GridView>
+
+2. Default skin. The SkinId is not defined. Only one default 
+   control skin per control type is allowed in the same theme.
+
+<asp:Image runat="server" ImageUrl="~/images/image1.jpg" />
+--%>
+<asp:Image runat="server" ImageUrl="Images/spacer.gif" />
+<asp:Image SkinId="Logo" runat="server" ImageUrl="Images/emagineLogo.gif" width="141" height="38" />
+<asp:Image SkinId="LoginLogo" runat="server" ImageUrl="Images/logogif.gif" width="189" height="85" />
+<asp:Image SkinId="TopNavSeparator" runat="server" ImageUrl="Images/navSeparator.gif" width="5" height="20" />
+<asp:Image SkinId="TopNavPipe" runat="server" ImageUrl="Images/navPipe.gif"  width="1" height="20" />
+<asp:Image SkinId="TopNavAdmin" runat="server" ImageUrl="Images/topNavAdmin.gif" width="80" height="20" />
+<asp:Image SkinId="TopNavsiteContent" runat="server" ImageUrl="Images/topNavSiteContent.gif" width="80" height="20" />
+<asp:Image SkinId="TopNavApplications" runat="server" ImageUrl="Images/topNavApplications.gif" width="80" height="20" />
+<asp:Image SkinId="IconAddNew" runat="server" ImageUrl="Images/new.gif" width="15" height="15" />
+<asp:Image SkinId="IconViewChildren" runat="server" ImageUrl="Images/icon_childPages.gif" width="15" height="15" Tooltip="View Children" />
+<asp:Image SkinId="IconEditPageInfo" runat="server" ImageUrl="Images/icon_edit_page_info.gif" width="15" height="15" Tooltip="Edit Page Information" />
+<asp:Image SkinId="IconEditBody" runat="server" ImageUrl="Images/icon_edit_body.gif" width="15" height="15" Tooltip="Edit Content" />
+<asp:Image SkinId="IconEditLibraryItems" runat="server" ImageUrl="Images/icon_library.gif" width="15" height="15" Tooltip="Edit Page Library Items" />
+<asp:Image SkinId="IconDelete" runat="server" ImageUrl="Images/delete.png" width="15" height="15" />
+<asp:Image SkinId="IconAddNewForm" runat="server" ImageUrl="Images/application_form_add.png" width="15" height="15" />
+<asp:Image SkinId="IconEditFormProperties" runat="server" ImageUrl="Images/cog_edit.png" Tooltip="Edit Form Properties" />
+<asp:Image SkinId="IconEditForm" runat="server" ImageUrl="Images/application_form_edit.png" Tooltip="Edit Form" />
+<asp:Image SkinId="IconPreviewForm" runat="server" ImageUrl="images/eye.png" Tooltip="Preview Form" />
+<asp:Image SkinId="IconCopyForm" runat="server" ImageUrl="images/page_copy.png" Tooltip="Copy Form" />
+<asp:Image SkinId="IconEmailContent" runat="server" ImageUrl="Images/mail.gif" width="15" height="15" Tooltip="Send Link to a Colleague"/>
+<asp:Image SkinId="IconEdit" runat="server" ImageUrl="Images/edit.gif" width="15" height="15"/>
+<asp:Image SkinId="IconPermissions" runat="server" ImageUrl="Images/permissions.gif" width="15" height="15"/>
+<asp:Image SkinId="IconSave" runat="server" ImageUrl="Images/save.gif" width="15" height="15"/>
+<asp:Image SkinId="IconAssignToPage" runat="server" ImageUrl="Images/icon_products.gif" width="15" height="15"/>
+
+<asp:ImageButton SkinId="IconAddNew" runat="server" ImageUrl="Images/add.png" width="15" height="15" />
+
+<asp:Hyperlink SkinId="IconViewChildren" runat="server" ImageUrl="Images/icon_childPages.gif" width="15" height="15" Tooltip="View Children" />
+<asp:Hyperlink SkinId="IconEditPageInfo" runat="server" ImageUrl="Images/icon_edit_page_info.gif" width="15" height="15" Tooltip="Edit Page Information" />
+<asp:Hyperlink SkinId="IconEditBody" runat="server" ImageUrl="Images/icon_edit_body.gif" width="15" height="15" Tooltip="Edit Content" />
+<asp:Hyperlink SkinId="IconEditLibraryItems" runat="server" ImageUrl="Images/icon_library.gif" width="15" height="15" Tooltip="Edit Page Library Items" />
+<asp:Hyperlink SkinId="IconDelete" runat="server" ImageUrl="Images/delete.png" />
+<asp:Hyperlink SkinId="Spacer" runat="server" ImageUrl="Images/spacer.gif" width="15" height="15" />
+<asp:Hyperlink SkinId="IconEditFormProperties" runat="server" ImageUrl="Images/cog_edit.png" Tooltip="Edit Form Properties" />
+<asp:Hyperlink SkinId="IconEditForm" runat="server" ImageUrl="Images/application_form_edit.png" />
+<asp:Hyperlink SkinId="IconPreviewForm" runat="server" ImageUrl="images/eye.png" Tooltip="Preview Form" />
+<asp:Hyperlink SkinId="IconCopyForm" runat="server" ImageUrl="images/page_copy.png" Tooltip="Copy Form" />
+<asp:Hyperlink SkinId="IconEditField" runat="server" ImageUrl="Images/edit.gif" width="15" height="15"/>
+<asp:Hyperlink SkinId="IconPreviewContent" runat="server" ImageUrl="Images/icon_products.gif" width="15" height="15" Tooltip="Preview This Content" />
+
+<asp:imagebutton SkinId="IconEdit" runat="server" imageurl="Images/edit.gif" />
+<asp:imagebutton SkinId="IconFolder" runat="server" imageurl="Images/new.gif" />
+<asp:imagebutton SkinId="IconReorder" runat="server" imageurl="Images/resort.gif" />
+<asp:imagebutton SkinId="IconSave" runat="server" imageurl="Images/save.gif" />
+<asp:imagebutton SkinId="IconDelete" runat="server" imageurl="Images/delete.gif" />
+<asp:imagebutton SkinId="IconAssignToPage" runat="server" imageurl="Images/icon_products.gif" />
+<asp:imagebutton SkinId="IconPromoteContent" runat="server" ImageUrl="Images/publish.gif" width="22" height="15" Tooltip="Publish This Content" />
+
+<asp:GridView SkinId="GridView" runat="server" HeaderStyle-CssClass="table-header" Width="100%" CellPadding="3" AlternatingRowStyle-CssClass="table-altrow" RowStyle-CssClass="table-row" EmptyDataRowStyle-CssClass="table-row" HeaderStyle-HorizontalAlign="Left" />
+
+<asp:textbox runat="server" cssclass="form-textbox" />
+<VAM:textbox runat="server" cssclass="form-textbox" />
+
+<asp:DropDownList runat="server" cssclass="form" />
+
+<asp:ListBox runat="server" cssclass="form" />
+
+<asp:radiobuttonlist runat="server" cssclass="form" />
+
+<asp:radiobuttonlist SkinId="PreviewContent" runat="server" cssclass="topNav-bold" />
+
+<VAM:Button SkinID="Button" runat="server" cssclass="form-button" />
+<asp:Button SkinID="Button" runat="server" cssclass="form-button" />
+
+
+
+
+					

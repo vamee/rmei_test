@@ -1,0 +1,12 @@
+.clear {
+	height:0px;
+	display:inline;}
+		
+img, #callout1, #callout2, #homeMiddle, #interiorMain, #homeMiddleTable {behavior: url(/collateral/templates/common/iepngfix.htc);}
+
+.quote {
+	vertical-align: text-top;}
+	
+h3 {font-weight: bold;}
+
+#homeBottom p {width:362px;}

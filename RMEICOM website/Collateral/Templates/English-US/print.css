@@ -1,0 +1,359 @@
+/*  [Key]
+	CTRL+F to search by section number:
+	1.0 Base Element Styles					5.0 Interior Page Styles
+	2.0 ezEdit ToolsFile Styles				6.0	LeftNav Item Styles
+	3.0 Global/Header/Footer Styles			7.0	TopNav Styles
+	4.0 Home Page Styles	
+				[#.1 Font Styles | #.2 Layout Styles]
+
+/*	1.0 Base Element Styles-=-=-=-=-=-=-=-=-=-=-=-=-=-=*/
+
+/*	1.1 [Fonts]  */
+
+body {
+	color:#333333;
+	font:75% arial, helvetica, sans-serif;}
+
+h1 {
+	color:#003472;
+	font-size:170%;
+	font-weight:bold;}
+	
+h2	
+	{
+	color:#333333;
+	font-size:140%;
+	font-weight:bold;}
+
+h3	
+	{
+	color:#666666;
+	font-size:120%;
+	font-weight:bold;
+	padding:4px 0px;}
+
+h4 {
+	color:#666666;
+	font-size:100%;
+	font-weight:bold;}
+
+h5 {
+	color:#666666;
+	font-size:100%;
+	font-weight:normal;}
+
+h6 {
+	color:#333333;
+	font-size:100%;
+	font-weight:bold;
+	padding:6px 0px 4px 0px;
+	padding-left:72px;}
+
+p {
+	line-height:140%;
+	font-size:100%;}
+
+a {
+	color:#003e7e;
+	text-decoration:underline;}
+
+	a:hover {
+		text-decoration:none;}
+
+td {
+	font-size:75%;}
+
+	#container td {
+		font-size:100%;} /* ezedit vs. front-end fix */
+
+/*	1.2 [Layout]  */
+
+body {
+	height:98%;}
+			
+h1 	{padding:0px 0px 8px 0px;}	
+h2 	{margin:0px 0px 5px 0px;}
+h3 	{margin:0px 0px 5px 0px;}
+h4 	{margin:0px;}
+h5 	{margin:0px 0px 7px 0px;}
+h6 	{margin:0px;}
+p 	{margin:0px 0px 15px 0px;}
+	
+img {border:0px;}
+
+hr {border-top: 1px solid #CCCCCC; margin: 0px 0px 10px; padding: 0px; height: 1px;}
+
+sub, sup {font-size: 70%;}
+
+.clear {
+	clear:both;
+	height:1px;}
+	
+.imgBlock {display:block;}
+
+#content ul.VAMValSummaryErrors li {
+	background:none;}
+	
+#ctl00_Modules_ctl00_objSlideshow_wrapper {
+	width:100px;
+	margin:0px auto;}
+	
+.quotes {
+	font-size: 160%;
+	line-height:70%;
+	vertical-align: middle;
+	color:#003e7e;
+	font-weight: bold;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	padding: 0px 2px;}
+	
+.imgLeft {
+	margin: 10px 15px 35px 0px;}
+	
+.imgRight {
+	margin: 10px 0px 35px 15px;}
+	
+.imgLeftNoBorder {
+	margin: 5px 15px 35px 0px;}
+	
+.imgRightNoBorder {
+	margin: 5px 0px 35px 15px;}
+	
+.caption {border: 1px solid #CCCCCC; font-size:85%; line-height: 110%; margin: 0px 10px 10px 0px; vertical-align: top;}
+
+.caption td {padding: 10px 10px 0px; text-align: center; vertical-align: top;}
+
+.caption td p {font-size:85%; line-height: 130%; padding: 0px 0px 10px 0px; margin: 0px;}
+
+/*	2.0 ezEdit ToolsFile Styles-=-=-=-=-=-=-=-=-=-=-=-=-=-=*/
+
+/*	2.1 [Home Page]  */
+
+/*	2.2 [Interior Page]  */
+
+.emagine-note {
+	background:url(images/emagine-note.gif) 0 3px no-repeat;
+	color: #FF0000;
+	display:inline-block;
+	font-size:110%;
+	font-weight:bold;
+	padding-left:20px;}
+	
+.footnote {
+	font-size:90%;}
+
+/*	2.3 [Interior Tables and Applications]  */
+
+.table-header-app {
+	background:#658FB8;
+	color:#FFFFFF;
+	font-size:120%;
+	font-weight:bold;
+	padding:7px;}
+	
+#container .table-header-app {font-size:120%;}
+
+.table-subheader-app {
+	background:#9ba4af;
+	color:#FFFFFF;
+	font-weight:bold;
+	padding:7px;}
+	
+.tableBorder {border-bottom: 1px solid #CCCCCC; border-bottom: none; margin: 10px 0px;}
+
+.table-row {
+	border-bottom: 1px solid #CCCCCC;
+	background:#FFFFFF;
+	color:#333333;
+	padding:12px;}
+
+.table-altrow {
+	border-bottom: 1px solid #CCCCCC;
+	background:#E5EEF5;
+	color:#333333;
+	padding:12px;}
+		
+.table-header th a {
+	color:#FFFFFF;}
+	
+.table-row td, .table-altrow td {
+	padding:10px; border-bottom: 1px solid #CCCCCC;}
+	
+td.table-row td, td.table-altrow td {
+	padding: 0px; border: 0px;}
+	
+.clicktoEnlarge {margin-top: -35px; border: 1px solid #CCCCCC;}
+
+/*For Download's Delivery header*/
+	
+.table-header th {
+	background-color:#9ba4af;
+	color:#FFFFFF;
+	font-size:110%;
+	font-weight:bold;
+	padding:5px;
+	vertical-align:top;}
+	
+/*	2.4 [Library Items]  */
+
+/*	3.0 Global/Header/Footer Styles-=-=-=-=-=-=-=-=-=-=-=-=-=-=*/
+
+/*	3.1 [Fonts]  */
+			
+/*	3.2 [Layout]  */
+
+#container {
+	border:1px solid #D9D9D9;
+	margin:0px auto;
+	width:991px;}
+		
+	#header {
+		height:93px;
+		width:991px;}
+		
+		#logo {	
+			float:left;
+			display:inline-block;
+			margin:22px 0px 12px 15px;}
+
+/*	4.3 [ezEdit ToolsFile]  */				
+				 
+/*	5.0 Interior Page Styles-=-=-=-=-=-=-=-=-=-=-=-=-=-=*/
+
+/*	5.1 [Fonts]  */
+	
+#content ul {
+	line-height:140%;}
+
+/*	5.2 [Layout]  */
+
+#interiorMain {
+	background:#ffffff;
+	clear:both;
+	width:989px;}
+
+	#sectionalGraphic {
+		height:181px;
+		width:768px;}
+		
+	#interiorColumns {
+		margin:0px auto 10px auto;
+		width:991px;}
+		
+	#leftHeader {
+		border-bottom:1px solid #D9D9D9;
+		width:184px;}
+		
+	#leftHeader img {
+		display:block;}
+	
+	#leftNav {
+		float:left;
+		display:inline; /*IE double margin fix*/
+		font-size:90%;
+		margin:10px 0px 0px 15px;
+		width:184px;}
+		
+		#leftNav img {
+			display:block;}
+		
+		#leftNav table {
+			background:#FFFFFF url(images/leftnav_bg.gif) 0px bottom repeat-x;
+			border-left:1px solid #D9D9D9;
+			border-right:1px solid #D9D9D9;
+			padding-top: 15px;
+			width:100%;}
+			
+	#mainTopContainer {
+		clear:both;
+		min-height:30px;
+		margin:7px 0px 0px 0px;
+		width:900px;}
+			
+		#mainTop {
+			padding:7px 0px 0px 22px;
+			width:744px;}
+		
+	#mainContainer {
+		display:inline; /*IE double margin fix*/
+		float:right;
+		min-height:30px;
+		margin:10px 14px 15px 0px;
+		width:960px;}
+		
+	#main {
+		border-bottom:0px;
+		min-height:400px;
+		height:auto !important;
+		height:400px;}
+	
+		#content {
+			padding:20px 30px 5px 22px;}
+		
+			#content ul {
+				margin:0px 0px 5px 20px;
+				list-style:none;
+				padding:0px;}
+				
+				#content ul li {
+					background: url(images/int_list.gif) 5px 7px no-repeat;
+					padding:0px 0px 7px 13px;
+					margin-top:3px;}
+				
+				#content ul ul {
+					margin:0px 0px 0px 25px;
+					list-style:none;
+					padding:0px;}
+					
+					#content ul ul li {
+						background: url(images/int_list.gif) 0px 7px no-repeat;
+						padding:0px 0px 7px 7px;
+						margin-top:3px;}
+				
+			#content ol {
+				margin:0px 0px 12px 25px;
+				padding:0px;}
+			
+			#content #pressYear {
+				margin-left:0px;
+				list-style:none;}
+				
+				#content #pressYear li {
+					background:none;
+					padding:0px 5px 0px 0px;
+					display:inline;}
+					
+					#content #pressYear li.current {
+						color:#999999;}	
+
+/* =-=-=-=-=-=-=-=-=-=-=-=-Form Styles-=-=-=-=-=-=-=-=-=-=-=-=-=-= */
+
+.form {font:1.09em arial, sans-serif;margin:3px;}
+.form-label {font-weight:bold;}
+.form-button {}
+.form-textbox {font: 1.09em arial, tahoma, sans-serif; color:#000000;border:1px solid #B3A892;}
+.red-star {font: bold 0.91em tahoma, sans-serif; color:#FF0000; }
+.alert {font: bold 0.91em tahoma, sans-serif; color:#FF0000; }
+/*site map*/
+
+#sitemap td {
+	padding:5px;}
+	
+/* Press Release Detail Template */
+
+#mainTopPressRelease {
+	margin:7px 0px 0px 0px;
+	width:764px;}
+	
+#mainPressRelease {
+	background:url(images/main_bg.gif) 0px bottom repeat-x;
+	border-left:1px solid #D9D9D9;
+	border-right:1px solid #D9D9D9;
+	min-height:400px;
+	height:auto !important;
+	height:400px;}
+	
+	#contentPressRelease {
+			padding:6px 15px 5px 22px;}
+			
+#flashcontent {margin:5px auto 5px auto;}

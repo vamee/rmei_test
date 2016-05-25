@@ -1,0 +1,387 @@
+/* Opera has fewer color definitions. "LightGrey" in IE and NS must be "LightGray" */
+.CSCCalendar
+{
+   border-right: gray 2px ridge;
+   padding-right: 2px;
+   border-top: gray 2px ridge;
+   font-size: 8pt;
+   border-left: gray 2px ridge;
+   border-bottom: gray 2px ridge;
+   font-family: Arial;
+   background-color: white;
+}
+
+.CSCCalendar TABLE
+{
+   font-size: 8pt;
+   font-family: Arial;
+   background-color: white;
+}
+
+.CSCWeekRowsTable
+{
+   border-right: black 1px solid;
+   border-top: black 1px solid;
+   font-size: 8pt;
+   border-left: black 1px solid;
+   border-bottom: black 1px solid;
+   font-family: Arial;
+   background-color: white;
+}
+
+.CSCDay
+{
+   cursor: hand;
+}
+.CSCDay A
+{
+   color:black;
+}
+
+.CSCSelectedDay
+{
+   background-color: gold;
+   cursor: hand;
+}
+.CSCSelectedDay A
+{
+   color:black;
+}
+
+.CSCSelectedToday
+{
+   font-weight: bold;
+   background-color: gold;
+   cursor: hand;
+}
+.CSCSelectedToday A
+{
+   color:black;
+}
+
+.CSCToday
+{
+   font-weight: bold;
+   cursor: hand;
+}
+.CSCToday A
+{
+   color:black;
+}
+
+.CSCSpecialDay
+{
+   cursor: hand;
+   background-color: lemonchiffon;
+}
+.CSCSpecialDay A
+{
+   color:black;
+}
+
+
+.CSCOtherMonthDays
+{
+   cursor: default;
+}
+
+.CSCOtherMonthDays A
+{
+   color: #A0A0A0;
+}
+
+.CSCWeekNumberColumn
+{
+   border-right: mediumblue 1px solid;
+   background-color: lightblue;
+}
+
+.CSCDayHeader
+{
+   border-bottom: mediumblue 1px solid;
+}
+
+.CSCDayHeader TR
+{
+   font-size: 7pt;
+   background-color: lightblue;
+}
+
+.CSCDayHeaderCell
+{
+   font-size: 7pt;
+}
+
+.CSCHeaderTable
+{
+   font-size: 8pt;
+   border-bottom: mediumblue 1px solid;
+   font-family: Arial;
+   border-collapse: separate;
+   overflow: hidden;
+}
+
+.CSCHeaderRows
+{
+   font-size: 8pt;
+   cursor: default;
+   font-family: Arial;
+}
+
+.CSCHeaderRows TR
+{
+   background-color: inherit;
+}
+
+.CSCIncrementalButtons
+{
+   cursor: hand;
+   color: mediumblue;
+}
+
+.CSCIncrementalButtonsPressed
+{
+   cursor: hand;
+   color: darkblue;
+}
+
+.CSCJumpButtons
+{
+   color: mediumblue;
+   cursor: hand;
+}
+
+.CSCJumpButtonsPressed
+{
+   color: darkblue;
+   cursor: hand;
+}
+
+.CSCCloseButton
+{
+   cursor: default;
+}
+
+.CSCCloseButtonPressed
+{
+   cursor: default;
+}
+.CSCHelpButton
+{
+   cursor: default;
+}
+
+.CSCHelpButtonPressed
+{
+   cursor: default;
+}
+
+.CSCFooterTable
+{
+}
+
+.CSCFooterTable TABLE
+{
+}
+
+.CSCFooterButton
+{
+   border-right: #E0E0E0 thin outset;
+   border-top: #E0E0E0 thin outset;
+   border-left: #E0E0E0 thin outset;
+   color: black;
+   border-bottom: #E0E0E0 thin outset;
+   background-color: lightblue;
+   font-size: 8pt;
+   font-family: Arial;
+   cursor: hand;
+}
+
+.CSCFooterButtonPressed
+{
+   border-right: #E0E0E0 thin inset;
+   border-top: #E0E0E0 thin inset;
+   border-left: #E0E0E0 thin inset;
+   border-bottom: #E0E0E0 thin inset;
+   background-color: lightblue;
+   color: black;
+   font-size: 8pt;
+   font-family: Arial;
+   cursor: hand;
+}
+
+.CSCFooterCurrentDate
+{
+}
+
+
+.SD_Selectable1
+{
+   background-color: mistyrose;
+   cursor: pointer;
+   cursor: hand;
+}
+.SD_SelectableOM1
+{
+   background-color: powderblue;
+   cursor: pointer;
+   cursor: hand;
+}
+.SD_Selectable2
+{
+   background-color: palegoldenrod;
+   cursor: pointer;
+   cursor: hand;
+}
+.SD_SelectableOM2
+{
+   background-color: gainsboro;
+   cursor: pointer;
+   cursor: hand;
+}
+.SD_Unselectable1
+{
+   color: black;
+   background-color: mistyrose;
+}
+.SD_UnselectableOM1
+{
+   color: black;
+   background-color: powderblue;
+}
+.SD_Unselectable2
+{
+   color: black;
+   background-color: palegoldenrod;
+}
+.SD_UnselectableOM2
+{
+   color: black;
+   background-color: gainsboro;
+}
+
+.DTBToggleCalendar
+{
+}
+
+.DTBToggleCalendarPressed
+{
+}
+
+.DTBHelpButton
+{
+}
+
+.DTBHelpButtonPressed
+{
+}
+
+.MYPMonthYearPicker
+{
+   border-right: gray 1px solid;
+   border-top: gray 1px solid;
+   font-size: 8pt;
+   border-left: gray 1px solid;
+   border-bottom: gray 1px solid;
+   font-family: Arial;
+   background-color: white;
+}
+
+.MYPMonthYearPicker TABLE
+{
+   font-size: 8pt;
+   font-family: Arial;
+   background-color: white;
+}
+
+.MYPMonthTable
+{
+}
+
+.MYPYearTable
+{
+}
+
+.MYPMonthCell
+{
+   cursor: hand;
+}
+.MYPMonthCell A
+{
+   color: black;
+}
+
+.MYPSelectedMonthCell
+{
+   background-color: gold;
+   cursor: hand;
+}
+.MYPSelectedMonthCell A
+{
+   color: black;
+}
+
+
+.MYPYearCell
+{
+   cursor: hand;
+}
+.MYPYearCell A
+{
+   color: black;
+}
+
+
+.MYPSelectedYearCell
+{
+   cursor: hand;
+   background-color: gold;
+}
+.MYPSelectedYearCell A
+{
+   color: black;
+}
+
+
+.MYPOutOfRangeCell
+{
+}
+
+.MYPOutOfRangeCell A
+{
+   color: #E0E0E0;
+}
+
+.MYPMoveYearsButtons
+{
+}
+
+.MYPMoveYearsButtonsPressed
+{
+}
+
+.MYPTogglePicker
+{
+}
+
+.MYPTogglePickerPressed
+{
+}
+
+.PDPContextMenu
+{
+   border-right: #E0E0E0 1px solid;
+   border-top: #E0E0E0 1px solid;
+   font-size: 8pt;
+   border-left: #E0E0E0 1px solid;
+   border-bottom: #E0E0E0 1px solid;
+   font-family: Arial;
+   background-color: white;
+}
+
+.PDPContextMenu TABLE
+{
+   font-size: 8pt;
+   font-family: Arial;
+   background-color: white;
+}

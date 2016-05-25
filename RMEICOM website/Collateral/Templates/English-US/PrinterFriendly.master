@@ -1,0 +1,56 @@
+<%@ Master Language="VB" CodeFile="PrinterFriendly.master.vb" Inherits="templates_1_Interior" %>
+<%@ Register Src="~/modules/Pages01/DisplayPageHeaderImage.ascx" TagName="DisplayPageHeaderImage"
+    TagPrefix="uc1" %>
+<%@ Register Src="~/modules/Pages01/DisplayPageName.ascx" TagName="DisplayPageName"
+    TagPrefix="uc1" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head runat="server">
+    <title></title>
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+	<link rel="stylesheet" type="text/css" href="/Collateral/Templates/English-US/reset.css" />
+	<link rel="stylesheet" type="text/css" href="/Collateral/Templates/English-US/print.css" />
+	<script type="text/javascript" src="/Collateral/Templates/common/swfobject.js"></script>
+</head>
+<body>
+<Emagine:SmartForm id="Form1" runat="server">
+
+	<div id="container">
+		<div id="header">
+			<img id="logo" src="/Collateral/Templates/English-US/images/top_logo-print.gif" alt="Image of Analogic logo" title="Analogic" />
+	    </div>
+		<div id="interiorMain">
+			<div id="interiorColumns">
+				<div id="mainContainer">
+					<div id="mainTopContainer">
+						<div id="mainTop">
+							<h1><uc1:DisplayPageName ID="ucPageName" runat="server" /></h1>
+						</div>
+					</div>
+					<div id="main">
+						<table cellpadding="0" cellspacing="0" border="0" width="100%">
+							<tr>
+								<td valign="top" id="content">
+									<template:Content ID="PageContent" runat="server" />					
+									<template:Modules ID="Modules" runat="server" />
+								</td>
+							</tr>
+						</table>
+					</div>
+				</div>
+			</div>
+			<div class="clear"></div>
+		</div>
+		<div class="clear"></div>
+	</div>
+</Emagine:SmartForm>
+
+<!-- SEO CODE, DO NOT TOUCH -->
+<!-- Begin Google Analytics Code -->
+
+<!-- End Google Analytics Code -->
+<!-- SEO CODE, DO NOT TOUCH -->
+
+</body>
+</html>

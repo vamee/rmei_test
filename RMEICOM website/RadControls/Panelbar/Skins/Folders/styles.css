@@ -1,0 +1,76 @@
+/* telerik r.a.d.panelbar 4 Folders skin */
+
+.RadPanelbar_Folders
+{
+	background-color: white;
+	white-space:nowrap;
+	width: 218px !important;
+	text-align: center;
+	font: normal 11px Arial, Verdana, Sans-serif;
+}
+
+.RadPanelbar_Folders .text
+{
+	color: black;
+	padding: 0px 20px;
+	line-height: 41px;
+}
+
+
+.RadPanelbar_Folders .image
+{
+	margin:4px 0px;
+}
+
+.RadPanelbar_Folders .rootGroup .text
+{
+	background: white url('Img/MainItemNormal.gif') no-repeat;
+}
+
+.RadPanelbar_Folders .group .first
+{
+	background: white url('Img/GroupFirstItem.gif') no-repeat;
+}
+
+.RadPanelbar_Folders .group .text
+{
+	border:0;
+	background:transparent;
+	font-weight:normal;
+	padding: 0px 20px;
+	line-height: 21px;
+}
+
+.RadPanelbar_Folders .rootGroup .selected .text
+{
+	background: url('Img/MainItemSelected.gif') no-repeat;
+	color: black;
+}
+
+.RadPanelbar_Folders .group .first .selected .text
+{
+	background: white url('Img/GroupFirstItem.gif') no-repeat;
+}
+
+.RadPanelbar_Folders .group .selected .text,
+.RadPanelbar_Folders .group .text
+{
+	background: white url('Img/GroupItem.gif') no-repeat;
+}
+
+.RadPanelbar_Folders .rootGroup .disabled:hover,
+.RadPanelbar_Folders .disabled .text
+{
+	background: white url('Img/MainItemNormal.gif') no-repeat;
+	color: #ccc;
+	cursor: default;
+}
+
+.RadPanelbar_Folders .rootGroup .group .disabled:hover,
+.RadPanelbar_Folders .rootGroup .group .disabled .text
+{
+	text-decoration: none;
+	background: white url('Img/GroupItem.gif') no-repeat;
+	color: #ccc;
+	cursor: default;
+}

@@ -1,0 +1,66 @@
+<%@ Master Language="VB" CodeFile="Interior.master.vb" Inherits="templates_1_Interior" %>
+
+<%@ Register Src="~/modules/Pages01/DisplayPageHeaderImage.ascx" TagName="DisplayPageHeaderImage"
+    TagPrefix="uc1" %>
+<%@ Register Src="~/modules/Pages01/DisplayPageName.ascx" TagName="DisplayPageName"
+    TagPrefix="uc1" %>
+<%@ Register Src="Includes/Header.ascx" TagName="Header" TagPrefix="uc1" %>
+<%@ Register Src="Includes/Footer.ascx" TagName="Footer" TagPrefix="uc1" %>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head runat="server">
+    <title></title>
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+    <link rel="stylesheet" type="text/css" href="/Collateral/Templates/English-US/reset.css" />
+
+    <script type="text/javascript" src="/Collateral/Templates/common/swfobject.js"></script>
+
+</head>
+<body>
+
+    <script language="javascript" type="text/javascript">
+	    function showPrinterFriendlyPage() {
+        window.open('/print<%=Request.RawUrl%>');
+		}
+    </script>
+
+    <div id="container">
+        <div id="interiorWrapper">
+            <div id="header">
+                <uc1:Header ID="Header1" runat="server" />
+            </div>
+            <div id="interiorMain">
+                <div id="sectionalGraphic">
+                    <template:HeaderGraphic ID="topHeader" runat="server" LocationName="SectionalGraphic1" />
+                </div>
+                <div id="interiorColumns">
+                    <div id="leftNav">
+                        <template:LeftNavigation ID="LeftNavigation" runat="server" />
+                    </div>
+                    <div id="main" class="elements">
+                        <table cellpadding="0" cellspacing="0" border="0" width="100%">
+                            <tr>
+                                <td valign="top" id="content">
+                                    <template:Content ID="PageContent" runat="server" />
+                                    <Emagine:SmartForm id="Form1" runat="server">
+                                        <template:Modules ID="Modules" runat="server" />
+                                    </Emagine:SmartForm>
+                                </td>
+                                <template:LibraryItems ID="LibraryItems" runat="server" Orientation="Vertical" />
+                            </tr>
+                        </table>
+                    </div>
+                    <div class="clear">
+                    </div>
+                </div>
+                <img class="imgBlock" src="/Collateral/Templates/English-US/images/interior_btm.gif"
+                    alt="" border="0" />
+            </div>
+            <div id="footer">
+                <uc1:Footer ID="Footer1" runat="server" />
+            </div>
+        </div>
+    </div>
+    <template:Content ID="GoogleAnalytics" runat="server" ContentName="Google Analytics Code" />
+</body>
+</html>

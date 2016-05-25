@@ -1,0 +1,246 @@
+﻿<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<script>
+function closeWindow(){
+	// IE and Netscape refer to the movie object differently.
+	// This function returns the appropriate syntax depending on the browser.
+	if (navigator.appName.indexOf ("Microsoft") !=-1) {
+		window.close(); 
+	} else {
+		window.open('','_parent','');
+		window.close(); 
+	}
+		
+}
+</script>
+<head>
+<title>Expert Insights in Acute Lymphoblastic Leukemia: Current Challenges and Future Directions</title>
+<meta name="keywords" content="PowerPoint to Flash,Convert PowerPoint to flash,Flash Presentations,Flash Presentation,PowerPoint Flash,PPT to SWF Converter,PowerPoint to Macromedia Flash Converter,Flash Slideshow,PowerPoint Flash,PowerPoint to SWF,PowerPoint in Flash,PPT to Flash."/>
+<meta name="description" content="PowerPoint to Flash Converter to help you convert your PowerPoint to flash"/>
+<meta name="Robots" Content="index,follow"/>
+<meta name="Presentation Title" content="Expert Insights in Acute Lymphoblastic Leukemia: Current Challenges and Future Directions"/>
+<meta name="Author" content="Robert Michael Educational Institute"/>
+<meta name="Description" content=""/>
+<meta name="PPT Keywords" content=""/>
+<meta name="Organization" content=""/>
+<meta name="Designation" content=""/>
+<meta name="Template" content="Blue"/><meta name="Template" content="Blue"/>
+<meta name="Video Name" content="part1.wmv"/><meta name="Video Duration" content="00:31:22.533"/><meta name="PowerPoint Duration" content="00:31:22.533"/>
+<meta name="Total Slides" content="38"/>
+
+
+<style type=text/css>
+		.tdstyle{
+		border: 1px solid #8498CF;
+		background-color: #ffffff;
+		}
+		
+		.bodycolor{
+		}
+			
+		body {
+	margin-left: 0px;
+	margin-right: 0px;
+	margin-top: 0px;
+	vertical-align: top;
+	text-align: center;
+	background-image: url(BeigeBackground.jpg);
+	background-repeat: repeat-x;
+	background-color: #EDECE8;
+		}
+		.TitleFont {
+	color: #FFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 24px;
+	font-weight: bold;
+	text-align: center;
+	text-indent: 10px;
+	vertical-align: text-top;
+}
+.TitleFontsmall {
+	font-size: 12px;
+}
+</style>
+<script language="javascript">AC_FL_RunContent = 0;</script>
+<script src="AC_RunActiveContent.js" language="javascript"></script>
+<script language="JavaScript" type="text/javascript">
+<!--
+// -----------------------------------------------------------------------------
+// Globals
+// Major version of Flash required
+var requiredMajorVersion = 8;
+// Minor version of Flash required
+var requiredMinorVersion = 0;
+// Revision of Flash required
+var requiredRevision = 0;
+// the version of javascript supported
+var jsVersion = 1.0;
+// -----------------------------------------------------------------------------
+// -->
+</script>
+<script language="VBScript" type="text/vbscript">
+<!-- // Visual basic helper required to detect Flash Player ActiveX control version information
+Function VBGetSwfVer(i)
+  on error resume next
+  Dim swControl, swVersion
+  swVersion = 0
+  
+  set swControl = CreateObject("ShockwaveFlash.ShockwaveFlash." + CStr(i))
+  if (IsObject(swControl)) then
+    swVersion = swControl.GetVariable("$version")
+  end if
+  VBGetSwfVer = swVersion
+End Function
+// -->
+</script>
+<script language="JavaScript1.1" type="text/javascript">
+<!-- // Detect Client Browser type
+var isIE  = (navigator.appVersion.indexOf("MSIE") != -1) ? true : false;
+var isWin = (navigator.appVersion.toLowerCase().indexOf("win") != -1) ? true : false;
+var isOpera = (navigator.userAgent.indexOf("Opera") != -1) ? true : false;
+jsVersion = 1.1;
+// JavaScript helper required to detect Flash Player PlugIn version information
+function JSGetSwfVer(i){
+	// NS/Opera version >= 3 check for Flash plugin in plugin array
+	if (navigator.plugins != null && navigator.plugins.length > 0) {
+		if (navigator.plugins["Shockwave Flash 2.0"] || navigator.plugins["Shockwave Flash"]) {
+			var swVer2 = navigator.plugins["Shockwave Flash 2.0"] ? " 2.0" : "";
+      		var flashDescription = navigator.plugins["Shockwave Flash" + swVer2].description;
+			descArray = flashDescription.split(" ");
+			tempArrayMajor = descArray[2].split(".");
+			versionMajor = tempArrayMajor[0];
+			versionMinor = tempArrayMajor[1];
+			if ( descArray[3] != "" ) {
+				tempArrayMinor = descArray[3].split("r");
+			} else {
+				tempArrayMinor = descArray[4].split("r");
+			}
+      		versionRevision = tempArrayMinor[1] > 0 ? tempArrayMinor[1] : 0;
+            flashVer = versionMajor + "." + versionMinor + "." + versionRevision;
+      	} else {
+			flashVer = -1;
+		}
+	}
+	// MSN/WebTV 2.6 supports Flash 4
+	else if (navigator.userAgent.toLowerCase().indexOf("webtv/2.6") != -1) flashVer = 4;
+	// WebTV 2.5 supports Flash 3
+	else if (navigator.userAgent.toLowerCase().indexOf("webtv/2.5") != -1) flashVer = 3;
+	// older WebTV supports Flash 2
+	else if (navigator.userAgent.toLowerCase().indexOf("webtv") != -1) flashVer = 2;
+	// Can't detect in all other cases
+	else {
+		
+		flashVer = -1;
+	}
+	return flashVer;
+} 
+// If called with no parameters this function returns a floating point value 
+// which should be the version of the Flash Player or 0.0 
+// ex: Flash Player 7r14 returns 7.14
+// If called with reqMajorVer, reqMinorVer, reqRevision returns true if that version or greater is available
+function DetectFlashVer(reqMajorVer, reqMinorVer, reqRevision) 
+{
+ 	reqVer = parseFloat(reqMajorVer + "." + reqRevision);
+   	// loop backwards through the versions until we find the newest version	
+	for (i=25;i>0;i--) {	
+		if (isIE && isWin && !isOpera) {
+			versionStr = VBGetSwfVer(i);
+		} else {
+			versionStr = JSGetSwfVer(i);		
+		}
+		if (versionStr == -1 ) { 
+			return false;
+		} else if (versionStr != 0) {
+			if(isIE && isWin && !isOpera) {
+				tempArray         = versionStr.split(" ");
+				tempString        = tempArray[1];
+				versionArray      = tempString .split(",");				
+			} else {
+				versionArray      = versionStr.split(".");
+			}
+			versionMajor      = versionArray[0];
+			versionMinor      = versionArray[1];
+			versionRevision   = versionArray[2];
+			
+			versionString     = versionMajor + "." + versionRevision;   // 7.0r24 == 7.24
+			versionNum        = parseFloat(versionString);
+        	// is the major.revision >= requested major.revision AND the minor version >= requested minor
+			if ( (versionMajor > reqMajorVer) && (versionNum >= reqVer) ) {
+				return true;
+			} else {
+				return ((versionNum >= reqVer && versionMinor >= reqMinorVer) ? true : false );	
+			}
+		}
+	}	
+	return (reqVer ? false : 0.0);
+}
+// -->
+</script>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"></head>
+<body leftmargin="0" topmargin="0" rightmargin="0" bottommargin="0" marginwidth="0"  scroll="yes">
+<p><img src="04-08-073-VL-PPT.jpg" width="93%" align="top" ><br>
+<script language="JavaScript" type="text/javascript">
+
+if (AC_FL_RunContent == 0) 
+	{
+			alert("This page requires AC_RunActiveContent.js. In Flash, run \"Apply Active Content Update\" in the Commands menu to copy AC_RunActiveContent.js to the HTML output folder.");
+	}
+else 
+{
+	var hasRightVersion = DetectFlashVer(requiredMajorVersion, requiredMinorVersion, requiredRevision);
+	if(hasRightVersion) 
+	{
+		
+		AC_FL_RunContent(
+			'codebase', 'http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0',
+			'width', '93%',
+			'height', '93%',
+			'src', 'index',
+			'quality', 'high',
+			'pluginspage', 'http://www.macromedia.com/go/getflashplayer',
+			'align', 'middle',
+			'play', 'true',
+			'loop', 'true',
+			'scale', 'showall',
+			'wmode', 'window',
+			'devicefont', 'false',
+			'id', 'test',
+			'bgcolor', '#EDECE7',
+			'name', 'test',
+			'menu', 'true',
+			'allowScriptAccess','sameDomain',
+			'movie', 'index',
+			'salign', 'T'
+			); //end AC code
+	}
+	else 
+	{  // flash is too old or we can't detect the plugin
+		 var alternateContent = ' authorPOINT could not detect Flash player 8.0 in your Browswer.'
+			+ '<a href=http://www.macromedia.com/go/getflash/ target="_blank">Click here</a> to install.<br>'
+			+ '<a href=index.html> Click here</a> to continue if Flash Player 8.0 is already installed. ';
+				document.write('<body class="bodycolor">');
+				document.write('<br><br><br><table border="0" width="650" align="center"  cellpadding="0" cellspacing="0" ID="Table1">');		
+				document.write('<tr valign=middle>');
+				document.write('<td class=tdstyle align=center width="95%" valign=middle>');
+				document.write('<strong><font color=#003399 size=3>'+alternateContent+'</font></strong>');				
+				document.write('</td>');
+				document.write('</tr>');
+				document.write('</table>');
+				document.write('</body>');
+	}
+}
+      </script>
+<noscript>
+<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"
+ codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab" width="93%" height="93%" hspace="0" vspace="0" align="top">
+  <param name="movie" value="index.swf" />
+  <param name="quality" value="high" />
+  <param name="scale" value="showall" />
+  <param name="bgcolor" value="#0072AE" />
+  <param name="salign" value="T">
+  <embed src="index.swf" quality="high" scale="showall" bgcolor="#0072AE" width="93%" height="93%" align="top" play="true" loop="false" allowscriptaccess="sameDomain"
+   type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer"> </embed>
+</object>
+</noscript>
+</p>
+</body>
+</html>

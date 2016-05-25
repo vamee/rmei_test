@@ -1,0 +1,1878 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<presentation>
+<properties>
+<title><![CDATA[Expert Insights in Acute Lymphoblastic Leukemia: Current Challenges and Future Directions ]]></title>
+<creationDate>3/19/2009 3:52:50 PM</creationDate>
+<video><![CDATA[Data/presentation.flv]]></video>
+<presenterName><![CDATA[Robert Michael Educational Institute]]></presenterName>
+<presenterCompany><![CDATA[]]></presenterCompany>
+<presenterTitle><![CDATA[]]></presenterTitle>
+<presenterEmail><![CDATA[]]></presenterEmail><presentationDescription><![CDATA[]]></presentationDescription><presentationLogo><![CDATA[Images/masthead2.swf]]></presentationLogo>
+<presentationLogoWidth>300</presentationLogoWidth>
+<presentationLogoHeight>70</presentationLogoHeight>
+<presentationTitle><![CDATA[]]></presentationTitle>
+<presentationURLs></presentationURLs>
+</properties>
+<slides>
+<slide id="1">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide1.jpg</slideImage>
+<fileUrl>Slides/slide1.swf</fileUrl>
+<title><![CDATA[Title Slide]]></title>
+<slideText><![CDATA[]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>420</totalframes>
+<time>00:00:21</time>
+</slide><slide id="2">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide2.jpg</slideImage>
+<fileUrl>Slides/slide2.swf</fileUrl>
+<title><![CDATA[Statement of support]]></title>
+<slideText><![CDATA[ This activity is jointly sponsored by Robert Michael Educational Institute LLC and Postgraduate Institute for Medicine, and is supported by an educational grant from Enzon Pharmaceuticals. ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>323</totalframes>
+<time>00:00:16</time>
+</slide><slide id="3">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide3.jpg</slideImage>
+<fileUrl>Slides/slide3.swf</fileUrl>
+<title><![CDATA[Disclosure]]></title>
+<slideText><![CDATA[ Disclosure of Conflicts of Interest Charles A. Schiffer, MD
+
+Dr. Charles A. Schiffer has no affiliations with commercial interests to disclose. ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>284</totalframes>
+<time>00:00:14</time>
+</slide><slide id="4">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide4.jpg</slideImage>
+<fileUrl>Slides/slide4.swf</fileUrl>
+<title><![CDATA[Faculty]]></title>
+<slideText><![CDATA[ Faculty Charles A. Schiffer, MD
+(Moderator)
+Professor of Medicine and Oncology
+Wayne State University School of Medicine and Karmanos Cancer Institute
+Detroit, Michigan
+
+Deborah Thomas, MD
+Associate Professor
+University of Texas MD Anderson Cancer Center
+Houston, Texas
+
+Dan Douer, MD
+Associate Professor of Hematology
+University of Southern California
+Los Angeles, California Lewis Silverman, MD
+Assistant Professor of Pediatrics
+Harvard Medical School
+Dana-Farber Cancer Center
+Boston, Massachusetts
+
+Stephen Hunger, MD
+Ergen Family Chair in Pediatric Cancer and
+Director, Center for Cancer and Blood
+    Disorders
+Chief, Section of Pediatric   
+    Hematology/Oncology/Bone Marrow 
+    Transplantation
+Professor of Pediatrics, University of 
+    Colorado School of Medicine
+The Children's Hospital
+Aurora, Colorado ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>1404</totalframes>
+<time>00:01:10</time>
+</slide><slide id="5">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide5.jpg</slideImage>
+<fileUrl>Slides/slide5.swf</fileUrl>
+<title><![CDATA[Ph+ ALL: A New Era of Treatment Challenges]]></title>
+<slideText><![CDATA[ Philadelphia Chromosome–Positive (Ph+) Acute Lymphocytic Leukemia (ALL):   A New Era of Treatment Challenges Deborah A. Thomas, MD
+Associate Professor
+Department of Leukemia
+University of Texas MD Anderson Cancer Center
+Houston, Texas ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>154</totalframes>
+<time>00:00:08</time>
+</slide><slide id="6">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide6.jpg</slideImage>
+<fileUrl>Slides/slide6.swf</fileUrl>
+<title><![CDATA[Disclosure]]></title>
+<slideText><![CDATA[ Disclosure of Conflicts of Interest Deborah A. Thomas, MD
+
+Dr. Deborah A. Thomas has affiliations with Bristol-Myers Squibb, Hana Biosciences, Inc., and Novartis (Honoraria); and Amgen Inc. and Hana Biosciences, Inc. (Research Funding). ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>60</totalframes>
+<time>00:00:03</time>
+</slide><slide id="7">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide7.jpg</slideImage>
+<fileUrl>Slides/slide7.swf</fileUrl>
+<title><![CDATA[Philadelphia-Positive ALL]]></title>
+<slideText><![CDATA[ Philadelphia-Positive (Ph+) ALL t(9;22) or bcr-abl in 20%–30% adults with ALL
+p190bcr-abl in 70%, p210bcr-abl in remainder
+CD10+ B-lineage (CALLA, pre-B)
+Frequent coexpression of CD13 and CD33
+Distinguish from bilineage leukemia
+Myeloperoxidase negative
+C-kit negative
+Increased incidence with older age
+Over 50% for age &gt; 50 years ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>866</totalframes>
+<time>00:00:43</time>
+</slide><slide id="8">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide8.jpg</slideImage>
+<fileUrl>Slides/slide8.swf</fileUrl>
+<title><![CDATA[Adult Ph+ ALL Chemo: Pre-Imatinib]]></title>
+<slideText><![CDATA[ Outcome in Adult Ph+ ALL  Chemotherapy in the Pre-Imatinib Era   Study		  Year	    No.	      % CR	% Survival	 					                  (X yrs)
+ 
+Bloomfield	 1989	    29	          46	        11*
+Gotz		 1992	    25	          76	         8*
+Larson		 1995	    25               70	      16 (3) 
+Secker-Walker	 1997	    40               83	      13 (3)
+Wetzler		 1999	    67	          82	      11 (5)
+Faderl†		 2000	    67	          90	        16*
+Dombret	 2002	  154	          67	      19 (3)
+Gleissner	 2003	  175	          68	      13 (3)
+Cimino		 2006	  101	          67	      16 (7)	 *Median survival in months.
+†Hyper-CVAD. ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>359</totalframes>
+<time>00:00:18</time>
+</slide><slide id="9">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide9.jpg</slideImage>
+<fileUrl>Slides/slide9.swf</fileUrl>
+<title><![CDATA[Single-Agent Imatinib]]></title>
+<slideText><![CDATA[ Single Agent Imatinib in Relapsed/Refractory Ph+ ALL and CML-LBP Ottmann OG, et al. Blood. 2002;100:1965-1971. ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>636</totalframes>
+<time>00:00:32</time>
+</slide><slide id="10">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide10.jpg</slideImage>
+<fileUrl>Slides/slide10.swf</fileUrl>
+<title><![CDATA[Ph+ ALL: Challenges]]></title>
+<slideText><![CDATA[ Philadelphia Positive (Ph+) ALL: Challenges  Optimizing frontline therapy
+Tyrosine kinase inhibitor (TKI) alone?
+Combination chemotherapy + TKI?
+Which TKI?
+Treatment of the elderly
+Circumventing mechanisms of resistance
+ABL TK domain mutations (T315I)
+Other mechanisms
+Allogeneic stem cell transplant (SCT) ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>858</totalframes>
+<time>00:00:43</time>
+</slide><slide id="11">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide11.jpg</slideImage>
+<fileUrl>Slides/slide11.swf</fileUrl>
+<title><![CDATA[Imatinib + Chemo for De Novo Adult Ph+ ALL]]></title>
+<slideText><![CDATA[ Imatinib + Chemotherapy for De Novo Adult Ph+ ALL: Regimens Concurrent induction and consolidation
+Hyper-CVAD + imatinib (Thomas et al.)
+PETHEMA (Ribera et al.)
+Concurrent induction, alternating consolidation
+JALSG ALL202 (Yanada et al.)
+After induction, alternating consolidation
+Hyper-CVAD (Lee et al.)
+GRAALL AFR09 (Delannoy et al.)
+GMALL 06/99 (Wassmann et al.)
+After induction, concurrent consolidation
+AFR03 HAM + imatinib (Dombret et al.)
+GMALL 07/03 (Wassmann et al.)
+GMALL (Ottmann et al.)
+After consolidation only
+GIMEMA LAL0201 (Vignetti et al.) ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>365</totalframes>
+<time>00:00:18</time>
+</slide><slide id="12">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide12.jpg</slideImage>
+<fileUrl>Slides/slide12.swf</fileUrl>
+<title><![CDATA[Imatinib + Hyper-CVAD in Ph+ ALL]]></title>
+<slideText><![CDATA[ Imatinib + Hyper-CVAD in Ph+ ALL 2 3   1 4  5 6  7 8          Hyper-CVAD  MTX-cytarabine    Imatinib   Vincristine + prednisone      Intensive phase  Maintenance phase   12 mos 12 mos     Thomas DA, et al. Blood. 2004;103:4396-4407. ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>454</totalframes>
+<time>00:00:23</time>
+</slide><slide id="13">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide13.jpg</slideImage>
+<fileUrl>Slides/slide13.swf</fileUrl>
+<title><![CDATA[Imatinib + Hyper-CVAD: Induction Response]]></title>
+<slideText><![CDATA[ Imatinib + Hyper-CVAD in Ph+ ALL:  Induction Response (n=54) Category		     No. CR/Total    	%CR
+De Novo 	         	           36/39	  	  92 
+Primary refractory	            6/6	        	100	 
+CR at start		    	9	               —	 Molecular CR (nested PCR for BCR-ABL) in 58%
+Failures:  1 CRp, 1 PR, 1 early death (sepsis) Thomas DA, et al. ASH 2007. ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>971</totalframes>
+<time>00:00:49</time>
+</slide><slide id="14">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide14.jpg</slideImage>
+<fileUrl>Slides/slide14.swf</fileUrl>
+<title><![CDATA[Survival in De Novo Groups by Regimen]]></title>
+<slideText><![CDATA[ Thomas DA, et al. ASH 2007. P&lt;0.001 Survival in De Novo Groups by Regimen ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>185</totalframes>
+<time>00:00:09</time>
+</slide><slide id="15">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide15.jpg</slideImage>
+<fileUrl>Slides/slide15.swf</fileUrl>
+<title><![CDATA[Remission Duration by Therapy]]></title>
+<slideText><![CDATA[ Thomas DA, et al. ASH 2007. Remission Duration by Therapy P&lt;0.001 ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>75</totalframes>
+<time>00:00:04</time>
+</slide><slide id="16">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide16.jpg</slideImage>
+<fileUrl>Slides/slide16.swf</fileUrl>
+<title><![CDATA[Imatinib-Based Chemo Regimens]]></title>
+<slideText><![CDATA[ Imatinib-Based Chemotherapy Regimens for De Novo Ph+ ALL Thomas DA, et al. ASH 2007. Yanada M, et al. J Clin Oncol. 2006;24:460-466.
+Wassmann B, et al. Blood. 2006;108:1469-1477.
+de Labarth A, et al. Blood. 2007;109:1408-1413. ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>932</totalframes>
+<time>00:00:47</time>
+</slide><slide id="17">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide17.jpg</slideImage>
+<fileUrl>Slides/slide17.swf</fileUrl>
+<title><![CDATA[Imatinib vs Alternating Chemo]]></title>
+<slideText><![CDATA[ Imatinib Concurrently vs Alternating With Chemotherapy for Ph+ ALL Sequential GMALL Protocols 06/99 or 07/03
+Imatinib alternating or concurrent 
+PCR negativity 52% for concurrent, 19% for alternating
+Failures to induction had similar outcome after concurrent consolidation as CRs
+Higher incidence of cytopenias and transient hepatotoxicity with concurrent therapy
+Rates of SCT similar in both regimens
+ Wassmann B, et al. Blood. 2006;108:1469-1477. ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>649</totalframes>
+<time>00:00:32</time>
+</slide><slide id="18">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide18.jpg</slideImage>
+<fileUrl>Slides/slide18.swf</fileUrl>
+<title><![CDATA[De Novo Ph+ All: GRAAPH-2005]]></title>
+<slideText><![CDATA[ De Novo Ph+ ALL: GRAAPH-2005 Chalandon Y, et al. ASH 2008. Abstract 12. 84 of 118 younger than 60 years evaluable
+7-day prednisone prephase, randomization
+Imatinib (800), VCR, dexamethasone (A)
+Imatinib + hyper-CVAD (B)
+100% CR arm A, 95% arm B
+Arm B superior in clearing MRD by PCR
+67% allogeneic SCT (18% autologous)
+OS 62% arm A, 54% arm B, 29% LALA-94
+Median follow-up 13 mos, 18 (22%) relapsed
+ ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>1027</totalframes>
+<time>00:00:51</time>
+</slide><slide id="19">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide19.jpg</slideImage>
+<fileUrl>Slides/slide19.swf</fileUrl>
+<title><![CDATA[Imatinib Regimens for Age 55 and Over]]></title>
+<slideText><![CDATA[ Imatinib-Based Regimens for De Novo Elderly Ph+ ALL (Age &gt;55) Ottmann OG, et al. Cancer. 2007;109:2068-2076.
+Vignetti M, et al. Blood. 2007;107:3676-3678.
+Delannoy A, et al. Leukemia. 2006;20:1526-1532. ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>1448</totalframes>
+<time>00:01:12</time>
+</slide><slide id="20">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide20.jpg</slideImage>
+<fileUrl>Slides/slide20.swf</fileUrl>
+<title><![CDATA[Mechanisms of Resistance to Imatinib]]></title>
+<slideText><![CDATA[ Mechanisms of Resistance to Imatinib  Single point mutation ATP binding site (e.g., T315I), P-loop or activation loop
+Amplification of BCR-ABL fusion gene
+Upregulation of BCR-ABL transcription
+Increased imatinib efflux
+Decreased cellular bioavailability 
+BCR-ABL independence (SRC) Hofmann WK, et al. Blood. 2002;99:1860-1862.
+Hofmann WK, et al. Lancet. 2002;359:481-486. ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>868</totalframes>
+<time>00:00:43</time>
+</slide><slide id="21">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide21.jpg</slideImage>
+<fileUrl>Slides/slide21.swf</fileUrl>
+<title><![CDATA[Resistance to Imatinib: TKD Mutations]]></title>
+<slideText><![CDATA[ Resistance to Imatinib: Tyrosine Kinase Domain (TKD) Mutations ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>508</totalframes>
+<time>00:00:25</time>
+</slide><slide id="22">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide22.jpg</slideImage>
+<fileUrl>Slides/slide22.swf</fileUrl>
+<title><![CDATA[ABL TKD Mutations in De Novo Ph+ ALL]]></title>
+<slideText><![CDATA[ ABL TKD Mutations in De Novo Ph+ ALL TKD mutation detected prior to therapy in 41% (T315I in 17%)
+No association pretreatment parameters
+No difference CR rate, molecular CR rate or remission duration compared with unmutated
+Frequency of mutant allele &lt;2%
+Concordance at diagnosis and relapse Pfeifer H, et al. Blood. 2007;110:727-734. ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>668</totalframes>
+<time>00:00:33</time>
+</slide><slide id="23">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide23.jpg</slideImage>
+<fileUrl>Slides/slide23.swf</fileUrl>
+<title><![CDATA[TKD Mutations in Ph+ ALL]]></title>
+<slideText><![CDATA[ TKD Mutations in Ph+ ALL Incidence and kinetics of ABL KD mutations in de novo and recurrent disease after imatinib-based chemotherapy or monotherapy Pfeifer H, et al. ASH 2007. Abstract 10. ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>505</totalframes>
+<time>00:00:25</time>
+</slide><slide id="24">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide24.jpg</slideImage>
+<fileUrl>Slides/slide24.swf</fileUrl>
+<title><![CDATA[Dasatinib for Imatinib-Resistant Ph+ ALL]]></title>
+<slideText><![CDATA[ Dasatinib for Imatinib-Resistant Ph+ ALL Dual Src/Abl inhibitor
+325-fold more potent than imatinib in vitro
+30- to 50-fold more potent in vivo
+In vitro efficacy against imatinib-resistant KD mutations, except T315I or F317L
+Phase I 80% hematologic responders
+Phase II START (Src/Abl Tyrosine Kinase Inhibition Activity: Research Trials of Dasatinib) Talpaz M, et al. N Engl J Med. 2006;354:2531-2541. ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>551</totalframes>
+<time>00:00:28</time>
+</slide><slide id="25">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide25.jpg</slideImage>
+<fileUrl>Slides/slide25.swf</fileUrl>
+<title><![CDATA[Phase II Dasatinib]]></title>
+<slideText><![CDATA[ Phase II Dasatinib:  Imatinib Resistant or Intolerant Ph+ ALL Ottmann H, et al. Blood. 2007;110:2309-2315. International START-L CA180015 Study Toxicities: diarrhea, N/V, peripheral edema; 12% pleural effusions ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>232</totalframes>
+<time>00:00:12</time>
+</slide><slide id="26">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide26.jpg</slideImage>
+<fileUrl>Slides/slide26.swf</fileUrl>
+<title><![CDATA[Dasatinib + HyperCVAD in Ph+ ALL]]></title>
+<slideText><![CDATA[ Dasatinib + Hyper-CVAD in Ph+ ALL De novo Ph+ ALL (n=28)
+Median age 52 yrs (21–79); 57% &gt; 50 yrs
+CR rate 93%; 2 induction deaths (sepsis)
+Early molecular CR rate 50%
+Median follow-up 10 mos (2–21)
+5 (19%) relapsed (3 T315I, 1 F359V) 22–54 weeks
+Toxicity
+2 deaths in CR (1 cardiac, 1 infection)
+GI bleeding (n=8), pleural effusions (n=3), subdural hematomas (n=2) Ravandi F, et al. ASH 2008. Abstract 2921. ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>1007</totalframes>
+<time>00:00:50</time>
+</slide><slide id="27">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide27.jpg</slideImage>
+<fileUrl>Slides/slide27.swf</fileUrl>
+<title><![CDATA[Dasatinib for De Novo Ph+ ALL]]></title>
+<slideText><![CDATA[ Dasatinib for De Novo Ph+ ALL GIMEMA LAL 1205 untreated Ph+ ALL
+Dasatinib 70 mg twice daily until day 84 + prednisone 60 mg/m2 days -7 to day 31
+IT methotrexate days 22, 43
+48 pts, median age 54 yrs (24–76)
+34 evaluable, 100% CHR (94% by day 22)
+Median follow-up 11 months; 9 (26%) pts relapsed (5 with T3151, 1 with E255K) 
+Degree of decrease PCR &lt; 10-3 prognostic Foà R, et al. ASH 2008. Abstract 305. ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>887</totalframes>
+<time>00:00:44</time>
+</slide><slide id="28">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide28.jpg</slideImage>
+<fileUrl>Slides/slide28.swf</fileUrl>
+<title><![CDATA[Dasatinib + Chemo for De Novo Elderly]]></title>
+<slideText><![CDATA[ Dasatinib + Chemotherapy  (EWALL-Ph-01) for De Novo Elderly Ph+ ALL Dasatinib 140 mg daily
+Dexamethasone pre-phase, concurrently
+MTX, asparaginase, HD cytarabine
+22 pts, median age 71 yrs (61–83)
+95% CHR (28% MCR)
+Median follow-up, 5.8 months; 1 relapse  
+ Rousselot P, et al. ASH 2008. Abstract 2920. ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>526</totalframes>
+<time>00:00:26</time>
+</slide><slide id="29">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide29.jpg</slideImage>
+<fileUrl>Slides/slide29.swf</fileUrl>
+<title><![CDATA[Nilotinib for Imatinib-Resistant Ph+ ALL]]></title>
+<slideText><![CDATA[ Nilotinib for Imatinib-Resistant Ph+ ALL Aminopyrimidine derivative of imatinib 
+Inhibits c-kit and PDGFR like imatinib
+20- to 50-fold more potent, active in imatinib-resistant cell lines
+Resistance screening low mutation rate  
+Phase II trial of nilotinib 400 mg twice daily, escalation to 600 mg
+41 pts, median age 46 years (18–75)
+CR in 24% Ottmann O, et al. ASH 2007. Abstract 2815. ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>467</totalframes>
+<time>00:00:23</time>
+</slide><slide id="30">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide30.jpg</slideImage>
+<fileUrl>Slides/slide30.swf</fileUrl>
+<title><![CDATA[ABL TKD Mutations: Sensitivity to TKIs]]></title>
+<slideText><![CDATA[ ABL TKD Mutations: Sensitivity to TKIs ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>422</totalframes>
+<time>00:00:21</time>
+</slide><slide id="31">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide31.jpg</slideImage>
+<fileUrl>Slides/slide31.swf</fileUrl>
+<title><![CDATA[Next ABL Inhibitors?]]></title>
+<slideText><![CDATA[]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>396</totalframes>
+<time>00:00:20</time>
+</slide><slide id="32">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide32.jpg</slideImage>
+<fileUrl>Slides/slide32.swf</fileUrl>
+<title><![CDATA[SCT in First CR (Pre-Imatinib Era)]]></title>
+<slideText><![CDATA[ SCT in First CR for Adult Ph+ ALL: Pre-Imatinib Era UKALL XII/ECOG E2993 (n=167)
+
+
+
+LALA-94 (n=154)
+SCT improved DFS, overall survival
+Achievement PCR negativity for bcr-abl favorable
+Relapse is primary cause of treatment failure
+Eligibility for SCT limited by availability of suitable donor, comorbidities, need to maintain CR Goldstone AH, et al. Blood. 2001;98:856a.
+Dombret H, et al. Blood. 2002;100:2357-2366. ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>607</totalframes>
+<time>00:00:30</time>
+</slide><slide id="33">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide33.jpg</slideImage>
+<fileUrl>Slides/slide33.swf</fileUrl>
+<title><![CDATA[Imatinib plus Hyper-CVAD in Ph+ ALL]]></title>
+<slideText><![CDATA[ Imatinib + Hyper-CVAD in Ph+ ALL: Outcome After CR [No. molecular CR] Thomas DA, et al. ASH 2007. ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>486</totalframes>
+<time>00:00:24</time>
+</slide><slide id="34">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide34.jpg</slideImage>
+<fileUrl>Slides/slide34.swf</fileUrl>
+<title><![CDATA[Survival by Allogeneic SCT in First CR]]></title>
+<slideText><![CDATA[ Thomas DA, et al. ASH 2006. Median time to SCT 5 mos (range, 1–13) Survival by Allogeneic SCT in First CR ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>389</totalframes>
+<time>00:00:19</time>
+</slide><slide id="35">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide35.jpg</slideImage>
+<fileUrl>Slides/slide35.swf</fileUrl>
+<title><![CDATA[Survival After Hyper-CVAD and Imatinib]]></title>
+<slideText><![CDATA[ Survival by Allogeneic SCT After Hyper-CVAD and Imatinib (De Novo Group) Thomas DA, et al. ASH 2007. 	No.	No. Fail	Median age (range)
+Yes	14	     4	                    37  (17–60)
+No	33	    17	                    53  (27–84)  P=0.09 ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>270</totalframes>
+<time>00:00:14</time>
+</slide><slide id="36">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide36.jpg</slideImage>
+<fileUrl>Slides/slide36.swf</fileUrl>
+<title><![CDATA[Survival by Age]]></title>
+<slideText><![CDATA[ Survival by Age After Hyper-CVAD and Imatinib (De Novo Group) Thomas DA, et al. ASH 2007. P=0.02 41–59
+≥ 60 ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>312</totalframes>
+<time>00:00:16</time>
+</slide><slide id="37">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide37.jpg</slideImage>
+<fileUrl>Slides/slide37.swf</fileUrl>
+<title><![CDATA[Allogeneic SCT in Ph- ALL]]></title>
+<slideText><![CDATA[ Allogeneic SCT in Ph− ALL MRC UKALL XII/ECOG E2993 Ph− ALL aged &lt; 55 in CR after induction therapy
+
+(n=919)  Sibling allogeneic SCT (n=389) High-dose  methotrexate  (3 courses) HLA-matched sibling donor available? High-dose  methotrexate  (3 courses) Autologous BMT Consolidation/maintenance  chemotherapy 
+2.5 years (n=530) Rowe et al. ASH 2006. Abstract 2. ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>650</totalframes>
+<time>00:00:32</time>
+</slide><slide id="38">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide38.jpg</slideImage>
+<fileUrl>Slides/slide38.swf</fileUrl>
+<title><![CDATA[Imatinib + SCT in Ph+ ALL]]></title>
+<slideText><![CDATA[ Imatinib + SCT in Ph+ ALL UKALLXII/ECOG2993 
+Induction (2 phases) then high-dose MTX intensification
+Allogeneic SCT (etoposide/TBI) with either MRD or MUD 
+ Fielding et al. ASH 2007. Abstract 8. } ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>650</totalframes>
+<time>00:00:32</time>
+</slide><slide id="39">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide39.jpg</slideImage>
+<fileUrl>Slides/slide39.swf</fileUrl>
+<title><![CDATA[Imatinib After Allogeneic SCT]]></title>
+<slideText><![CDATA[ Imatinib After Allogeneic SCT: Adult Ph+ ALL Imatinib 400 mg if PCR+ for bcr-abl (n=27)
+Detected earlier post-SCT if positive prior to SCT
+52% undetectable within median 6 weeks
+Continued CR if sustained 
+If MRD persisted for 6–12 weeks
+High incidence relapse (92%)
+Donor lymphocyte infusions ineffective
+Molecular relapse when imatinib discontinued Wassmann B, et al. Blood. 2005;106:458-463. ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>907</totalframes>
+<time>00:00:45</time>
+</slide><slide id="40">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide40.jpg</slideImage>
+<fileUrl>Slides/slide40.swf</fileUrl>
+<title><![CDATA[Future Directions in Ph+ ALL]]></title>
+<slideText><![CDATA[ Future Directions in Ph+ ALL Optimize frontline chemotherapy 
+TKI therapy clearly indicated
+Concurrent appears superior for imatinib
+Further explore mechanisms of resistance
+TKIs that circumvent T315I
+Resistance without ABL mutations
+Novel agents, e.g., HSP90 or histone acetylase inhibitors
+Role of allogeneic SCT in first CR
+Risk stratification?
+TKI maintenance therapy ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>1905</totalframes>
+<time>00:01:35</time>
+</slide><slide id="41">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide41.jpg</slideImage>
+<fileUrl>Slides/slide41.swf</fileUrl>
+<title><![CDATA[Panel Discussion]]></title>
+<slideText><![CDATA[ Panel Discussion ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>12967</totalframes>
+<time>00:10:48</time>
+</slide><slide id="42">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide42.jpg</slideImage>
+<fileUrl>Slides/slide42.swf</fileUrl>
+<title><![CDATA[Adult ALL: Current and Future Treatment]]></title>
+<slideText><![CDATA[ Current and Future Treatment Options for Adult Acute Lymphoblastic Leukemia Dan Douer, MD
+Associate Professor of Hematology University of Southern California Norris Cancer Center Los Angeles, California ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>212</totalframes>
+<time>00:00:11</time>
+</slide><slide id="43">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide43.jpg</slideImage>
+<fileUrl>Slides/slide43.swf</fileUrl>
+<title><![CDATA[Disclosure]]></title>
+<slideText><![CDATA[ Disclosure of Conflicts of Interest Dan Douer, MD
+
+Dr. Dan Douer has an affiliation with Enzon Pharmaceuticals (Speakers’ Bureau and Contracted Research).
+ ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>132</totalframes>
+<time>00:00:07</time>
+</slide><slide id="44">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide44.jpg</slideImage>
+<fileUrl>Slides/slide44.swf</fileUrl>
+<title><![CDATA[Principles of Current Adult ALL Protocols]]></title>
+<slideText><![CDATA[ Principles of Current Adult ALL Protocols (All Include Maintenance and Central Nervous System Prophylaxis) BFM-based
+Induction 
+Phase 1 (4 weeks): vincristine, prednisone, daunorubicin, asparaginase (VPDA)
+Induction phase 2 (4 weeks): cyclophosphamide, cytarabine (ara-C), 6-mercaptopurine
+Consolidation
+Cycles of intensive multi-agent chemotherapy (most include asparaginase with delayed reinduction)
+Hyper-CVAD (alternate parts A and B × 4)
+Part A: dexamethasone, vincristine, doxorubicin (CI), cyclophosphamide
+Part B: High-dose methotrexate (MTX) + ara-C
+No asparaginase
+Others
+Induction: VPDA
+Consolidation 
+
+ BFM=Berlin-Frankfurt-Munich.
+
+Gökbuget N, Hoelzer D. Hematology Am Soc Hematol Educ Program. 2006;133-141. ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>3112</totalframes>
+<time>00:02:36</time>
+</slide><slide id="45">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide45.jpg</slideImage>
+<fileUrl>Slides/slide45.swf</fileUrl>
+<title><![CDATA[Large Adult Clinical Trials]]></title>
+<slideText><![CDATA[ *Randomized. Large Adult Clinical Trials 1. Hussein KK, et al. Blood. 1989;73:57-63.
+2. Petersdorf SH, et al. Leukemia. 2001:15:208-216.
+3. Hoelzer D, et al. Blood. 1988;71:123-131.
+4. Annino L, et al. Blood. 2002;99:863-871.
+5. Durant IJ, et al. Br J Haematol. 1997;99:84-92. ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>472</totalframes>
+<time>00:00:24</time>
+</slide><slide id="46">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide46.jpg</slideImage>
+<fileUrl>Slides/slide46.swf</fileUrl>
+<title><![CDATA[Large Adult Clinical Trials, Continued]]></title>
+<slideText><![CDATA[ *Randomized
+†Single institution. Large Adult Clinical Trials 1. Gökbuget N, et al. Blood. 2001;98:802a.
+2. Larson RA, et al. Blood. 1995;85:2025-2037.
+3. Stock W. Blood. 2005;106:521a [abstract1833].
+4. Goldstone AH. Blood. 2008;111:1827-1833.
+5. Linker C, et al. J Clin Oncol. 2002;20:2464-2471.
+6. Kantarjian H, et al. Cancer. 2004;101:2788-2801. ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>1712</totalframes>
+<time>00:01:26</time>
+</slide><slide id="47">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide47.jpg</slideImage>
+<fileUrl>Slides/slide47.swf</fileUrl>
+<title><![CDATA[Strategies to Improve Adult ALL Outcome]]></title>
+<slideText><![CDATA[ Strategies to Improve Outcome of Adult ALL Should we transplant every Ph- ALL patient aged &lt; 55-60 years who has an HL-A identical sibling?
+Should we use a more intensive pediatric-like approaches (with more asparaginase)?
+Special subtypes
+Mature B cell ALL
+Ph+ ALL
+New drugs ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>694</totalframes>
+<time>00:00:35</time>
+</slide><slide id="48">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide48.jpg</slideImage>
+<fileUrl>Slides/slide48.swf</fileUrl>
+<title><![CDATA[Overall Survival by Cytogenetic Subgroup]]></title>
+<slideText><![CDATA[ Moorman AV, et al. Blood. 2007;109:3189-3197. Overall Survival by Cytogenetic Subgroup of Patients Registered on MRC UKALLXII/ECOG 2993  ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>252</totalframes>
+<time>00:00:13</time>
+</slide><slide id="49">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide49.jpg</slideImage>
+<fileUrl>Slides/slide49.swf</fileUrl>
+<title><![CDATA[Mature B-Cell ALL (Burkitt)]]></title>
+<slideText><![CDATA[]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>1152</totalframes>
+<time>00:00:58</time>
+</slide><slide id="50">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide50.jpg</slideImage>
+<fileUrl>Slides/slide50.swf</fileUrl>
+<title><![CDATA[ALL – CR1 HSCT]]></title>
+<slideText><![CDATA[]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>793</totalframes>
+<time>00:00:40</time>
+</slide><slide id="51">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide51.jpg</slideImage>
+<fileUrl>Slides/slide51.swf</fileUrl>
+<title><![CDATA[MRC UKALL XII/ECOG 2993]]></title>
+<slideText><![CDATA[ No Donor (Off prot. CR 1 allo SCT – 43) n=43 Donor (Actual allo SCT – 310) n=443 MRC UKALL XII/ECOG 2993
+Overall Survival (Philadelphia Chromosome–Negative [Ph−] Patients) Goldstone AH, et al. Blood. 2008;111:1827-1833.     ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>1034</totalframes>
+<time>00:00:52</time>
+</slide><slide id="52">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide52.jpg</slideImage>
+<fileUrl>Slides/slide52.swf</fileUrl>
+<title><![CDATA[Stem Cell Transplantation MRC/ECOG]]></title>
+<slideText><![CDATA[ Stem Cell Transplantation MRC/ECOG UKALLXII/E2993 Trial Ph− ALL Autologous SCT less favorable than consolidation/maintenance Goldstone AH, et al. Blood. 2008;111:1827-1833. ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>732</totalframes>
+<time>00:00:37</time>
+</slide><slide id="53">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide53.jpg</slideImage>
+<fileUrl>Slides/slide53.swf</fileUrl>
+<title><![CDATA["Pediatric Approaches" in Adult ALL]]></title>
+<slideText><![CDATA[ 'Pediatric Approaches' in Adult ALL Most adult regimens are adopted from pediatric protocols but are used less intensively with less physician adherence to protocol than seen with pediatric teams (dose, timing)
+Adult protocols use lower doses and shorter duration of asparaginase therapy
+
+
+  Adopt pediatric approach:
+Intensive therapy including longer asparagine depletion ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>1292</totalframes>
+<time>00:01:05</time>
+</slide><slide id="54">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide54.jpg</slideImage>
+<fileUrl>Slides/slide54.swf</fileUrl>
+<title><![CDATA[CALGB 9511: Peg-Asparaginase]]></title>
+<slideText><![CDATA[ CALGB 9511: Peg-Asparaginase in Newly Diagnosed Adults Wetzler M, et al. Blood. 2007;109:4164-4167.    Depleted (n=63) Non-depleted n=22) 0 1.0 0.8 0.6 0.4 0.2 0.0 2 4 6 8 10 Time (years)  Key effect: Asparagine depletion ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>512</totalframes>
+<time>00:00:26</time>
+</slide><slide id="55">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide55.jpg</slideImage>
+<fileUrl>Slides/slide55.swf</fileUrl>
+<title><![CDATA[Newly Diagnosed Pediatric ALL Trials]]></title>
+<slideText><![CDATA[ Newly Diagnosed Pediatric ALL Randomized Trials of Prolonged Post-Remission Asparaginase Treatment* 1. Sallan SE, et al. Cancer Res. 1983;43:5601-5607 (update courtesy of Dr. DeAngelo). 2. Silverman LB, et al. Blood. 2001;97:1211-1218. 3. Pession A, et al. J Clin Oncol. 2005;23:7161-7167.
+4. Nachman JB, et al. N Engl J Med. 1998;338:1663-1671.
+5. Seibel NL, et al. Blood. 2008;111:2548-2555. *All patients received asparaginase during induction; EFS=event-free survival. ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>750</totalframes>
+<time>00:00:38</time>
+</slide><slide id="56">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide56.jpg</slideImage>
+<fileUrl>Slides/slide56.swf</fileUrl>
+<title><![CDATA[Asparaginase Doses in Newly Diagnosed ALL]]></title>
+<slideText><![CDATA[ Asparaginase Doses (IU/m2) Newly Diagnosed Adults With ALL    ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>1032</totalframes>
+<time>00:00:52</time>
+</slide><slide id="57">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide57.jpg</slideImage>
+<fileUrl>Slides/slide57.swf</fileUrl>
+<title><![CDATA[GRAALL-2003 Protocol]]></title>
+<slideText><![CDATA[ GRAALL-2003 Protocol  'Pediatric Approach' for Patients 15–60 years More cumulative dose compared with historical trial LALA 94
+Prednisone – 9-fold
+Vincristine – 4-fold
+E. coli asparaginase – 16-fold
+   					@ 4 yrs		95% CI	
+Total Ph− patients 	    	225			   
+CR rate 		     	93% 		   
+EFS 		     	     	55%  	  	 48%–62%  
+Overall survival	     	     	58%   		 51%–65%
+Relapse		     	32%		 26%–38%	
+Death in CR 1	             		  9%		   6%–14%	 Huget P, et al. ASCO 2008. Abstract 7005. High-risk patients allo BMT: no difference, donor vs no donor ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>1393</totalframes>
+<time>00:01:10</time>
+</slide><slide id="58">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide58.jpg</slideImage>
+<fileUrl>Slides/slide58.swf</fileUrl>
+<title><![CDATA[DFCI: Pediatric Approach for Pts 18-50 years]]></title>
+<slideText><![CDATA[ DFCI   'Pediatric Approach' for Patients 18–50 years DFCI pediatric protocol intensified includes 30 weekly high-dose E. coli asparaginase
+						
+Patients (N) 		74 (Ph+ 8)	Median Age, 28 years	   
+
+CR rate: 		85% 		   
+
+EFS (2-yr)		72%   (95% CI: 52%–77%)
+DFS (2-yr)		76%   (95% CI: 64%–90%)
+Overall Survival  	73%   (95% CI: 61%–85%)
+ DeAngelo DJ, et al. ASH 2007. Abstract 587. Median follow-up = 24.1 months (range, 0.56–60.6 mos) ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>912</totalframes>
+<time>00:00:46</time>
+</slide><slide id="59">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide59.jpg</slideImage>
+<fileUrl>Slides/slide59.swf</fileUrl>
+<title><![CDATA[USC Protocol II Treatment Schema]]></title>
+<slideText><![CDATA[]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>713</totalframes>
+<time>00:00:36</time>
+</slide><slide id="60">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide60.jpg</slideImage>
+<fileUrl>Slides/slide60.swf</fileUrl>
+<title><![CDATA[USC Study]]></title>
+<slideText><![CDATA[ USC Study   Patients (N)			39
+Median age, years (range)	33 (18–57)
+Median WBC			21,000 (1900–512,000)
+Immunophenotype		
+Precursor B-cell		34
+T-cell				5
+Ph (+)				8
+Latinos				33 (85%)
+CR 37 (95%) all after cycle 1
+ Douer D, et al. EHA 2008. Abstract 920. ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>552</totalframes>
+<time>00:00:28</time>
+</slide><slide id="61">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide61.jpg</slideImage>
+<fileUrl>Slides/slide61.swf</fileUrl>
+<title><![CDATA[USC: Asparaginase-Related Gr 3/4 Toxicity]]></title>
+<slideText><![CDATA[ USC Study Asparaginase-Related  Grade 3 or 4 Toxicity Douer D, et al. EHA 2008. Abstract 920.  ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>812</totalframes>
+<time>00:00:41</time>
+</slide><slide id="62">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide62.jpg</slideImage>
+<fileUrl>Slides/slide62.swf</fileUrl>
+<title><![CDATA[USC: Patient Discontinuation]]></title>
+<slideText><![CDATA[ USC Study  Patient Discontinuation (N=15)  8 ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>612</totalframes>
+<time>00:00:31</time>
+</slide><slide id="63">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide63.jpg</slideImage>
+<fileUrl>Slides/slide63.swf</fileUrl>
+<title><![CDATA[USC: Event-Free Survival]]></title>
+<slideText><![CDATA[ USC Study  Event-Free Survival  Median follow-up, 17 months
+
+Douer D, et al. EHA 2008. Abstract 920. ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>711</totalframes>
+<time>00:00:36</time>
+</slide><slide id="64">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide64.jpg</slideImage>
+<fileUrl>Slides/slide64.swf</fileUrl>
+<title><![CDATA[Investigational Targeted Treatments]]></title>
+<slideText><![CDATA[ Investigational Targeted Treatments  Subtype	    Target    	                	Treatment		
+  Ph+		    bcr/abl	 	        	Imatinib, dasatinib, 							AMN107
+  T cell		    NUP214-ABL1 (5%)            	Imatinib
+  B cell 		    CD 20     		        	Rituximab
+  Precur B cell	    CD 20  (50%) 	        		Rituximab
+  All 		    CD 52  (70%)                     	Alemtuzumab (CAMPATH)
+  T cell 		    NOTCH1 mutation (55%)   	Gamma-secretase inhibitor
+  MLL, hyperploid     FLT3 overexpression       	CEP701, PKC412 ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>712</totalframes>
+<time>00:00:36</time>
+</slide><slide id="65">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide65.jpg</slideImage>
+<fileUrl>Slides/slide65.swf</fileUrl>
+<title><![CDATA[Future Studies in Ph- ALL]]></title>
+<slideText><![CDATA[ Future Studies in Ph− ALL Questions in adults age 55–60 years
+Intensive 'pediatric approach' vs allo BMT
+Prolonged (sustained ?) asparaginase depletion vs no asparaginase (e.g., hyper CVAD) in multicenter trials
+Define the time and level of minimal residual disease in CR as a point of changing therapy  ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>1011</totalframes>
+<time>00:00:51</time>
+</slide><slide id="66">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide66.jpg</slideImage>
+<fileUrl>Slides/slide66.swf</fileUrl>
+<title><![CDATA[Panel Discussion]]></title>
+<slideText><![CDATA[ Panel Discussion ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>12851</totalframes>
+<time>00:10:43</time>
+</slide><slide id="67">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide67.jpg</slideImage>
+<fileUrl>Slides/slide67.swf</fileUrl>
+<title><![CDATA[Treatment of Young Adults with ALL]]></title>
+<slideText><![CDATA[ Treatment of Adolescents and Young Adults With Acute Lymphoblastic Leukemia Lewis Silverman, MD Assistant Professor of Pediatrics
+Dana-Farber Cancer Institute/ 
+Children’s Hospital
+Boston, Massachusetts 
+ ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>353</totalframes>
+<time>00:00:18</time>
+</slide><slide id="68">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide68.jpg</slideImage>
+<fileUrl>Slides/slide68.swf</fileUrl>
+<title><![CDATA[Disclosure]]></title>
+<slideText><![CDATA[ Disclosure of Conflicts of Interest Lewis Silverman, MD
+
+Dr. Lewis Silverman has no affiliations with commercial interests to disclose.
+ ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>111</totalframes>
+<time>00:00:06</time>
+</slide><slide id="69">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide69.jpg</slideImage>
+<fileUrl>Slides/slide69.swf</fileUrl>
+<title><![CDATA[Childhood ALL]]></title>
+<slideText><![CDATA[ Childhood Acute Lymphoblastic Leukemia (ALL) Most common malignancy observed in children
+Current multiagent therapy: event-free survival (EFS) ~80%
+Age: important determinant of outcome
+Best outcomes in children 1–10 years old
+Adolescents/young adults: inferior outcomes ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>691</totalframes>
+<time>00:00:35</time>
+</slide><slide id="70">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide70.jpg</slideImage>
+<fileUrl>Slides/slide70.swf</fileUrl>
+<title><![CDATA[ALL: Event-Free Survival by Age]]></title>
+<slideText><![CDATA[ ALL: EFS by Age  Möricke A, et al. Klin Padiatr. 2005;217:310-320; with permission. 1–10 years 10–18 years &lt;1 year ALL-BFM 1986–1999 ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>511</totalframes>
+<time>00:00:26</time>
+</slide><slide id="71">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide71.jpg</slideImage>
+<fileUrl>Slides/slide71.swf</fileUrl>
+<title><![CDATA[Adolescent ALL: Why Inferior Outcomes?]]></title>
+<slideText><![CDATA[ Adolescent ALL:  Why Inferior Outcomes? Underlying biology
+Higher frequency of treatment-related toxicities
+Therapy: adult vs pediatric-based regimens ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>770</totalframes>
+<time>00:00:38</time>
+</slide><slide id="72">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide72.jpg</slideImage>
+<fileUrl>Slides/slide72.swf</fileUrl>
+<title><![CDATA[ALL: Distinctive Biology by Age]]></title>
+<slideText><![CDATA[ ALL: Distinctive Biology by Age 
+ Dana-Farber Cancer Institute (DFCI) ALL Consortium Studies, 1991–2000 WBC=white blood cell count.
+
+Barry E, et al. J Clin Oncol. 2007;25:813-819. ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>791</totalframes>
+<time>00:00:40</time>
+</slide><slide id="73">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide73.jpg</slideImage>
+<fileUrl>Slides/slide73.swf</fileUrl>
+<title><![CDATA[ALL: Distinctive Biology by Age (Cont’d.)]]></title>
+<slideText><![CDATA[ ALL: Distinctive Biology by Age Möricke A, et al. Klin Padiatr. 2005;217:310-320. ALL-BFM 1986–1999: B-precursor ALL only ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>2158</totalframes>
+<time>00:01:48</time>
+</slide><slide id="74">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide74.jpg</slideImage>
+<fileUrl>Slides/slide74.swf</fileUrl>
+<title><![CDATA[Treatment-Related Toxicities by Age]]></title>
+<slideText><![CDATA[ Treatment-Related Toxicities by Age Asparaginase
+Corticosteroids ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>452</totalframes>
+<time>00:00:23</time>
+</slide><slide id="75">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide75.jpg</slideImage>
+<fileUrl>Slides/slide75.swf</fileUrl>
+<title><![CDATA[Asparaginase: Toxicity by Age]]></title>
+<slideText><![CDATA[ Asparaginase: Toxicity by Age  DFCI ALL Consortium, 1991–2000 Barry E, et al. J Clin Oncol. 2007;25:813-819. ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>1332</totalframes>
+<time>00:01:07</time>
+</slide><slide id="76">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide76.jpg</slideImage>
+<fileUrl>Slides/slide76.swf</fileUrl>
+<title><![CDATA[Osteonecrosis by Age (CCG)]]></title>
+<slideText><![CDATA[ CCG=Children’s Cancer Group.
+
+Mattano LA Jr., et al. J Clin Oncol. 2000;18:3262-3272; with permission. Osteonecrosis by Age (CCG) ]]></slideText>
+<slideURL>
+<url id="1" text="http://www.jco.org/content/vol18/issue18/images/large/G0433F1.jpeg" value="http://www.jco.org/content/vol18/issue18/images/large/G0433F1.jpeg"/></slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>931</totalframes>
+<time>00:00:47</time>
+</slide><slide id="77">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide77.jpg</slideImage>
+<fileUrl>Slides/slide77.swf</fileUrl>
+<title><![CDATA[Adolescent ALL: Therapy]]></title>
+<slideText><![CDATA[ Adolescent ALL: Therapy Older adolescents (15–21 years of age) may be treated on pediatric or adult ALL trials 
+More favorable outcomes with pediatric regimens ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>791</totalframes>
+<time>00:00:40</time>
+</slide><slide id="78">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide78.jpg</slideImage>
+<fileUrl>Slides/slide78.swf</fileUrl>
+<title><![CDATA[DFCI ALL Consortium: EFS by Age]]></title>
+<slideText><![CDATA[ DFCI ALL Consortium: EFS by Age    	    	        5-year EFS (%)
+--1–10 years      		85 + 1
+--10–15 years		77 + 4
+--15–18 years		78 + 6
+P=0.09 Adapted from Barry E, et al. J Clin Oncol. 2007;25:813-819. ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>592</totalframes>
+<time>00:00:30</time>
+</slide><slide id="79">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide79.jpg</slideImage>
+<fileUrl>Slides/slide79.swf</fileUrl>
+<title><![CDATA[FRALLE/LALA Studies]]></title>
+<slideText><![CDATA[ FRALLE/LALA Studies: Patient Characteristics FRALLE=The French Group on Therapy for Adult Acute Lymphoblastic Leukemia; LALA=Leucemies aigues lymphoblastiques de l’apus; adulte.
+
+Boissel N, et al. J Clin Oncol. 2003;21:774-780. ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>851</totalframes>
+<time>00:00:43</time>
+</slide><slide id="80">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide80.jpg</slideImage>
+<fileUrl>Slides/slide80.swf</fileUrl>
+<title><![CDATA[Outcome of Patients Aged 15-20 (France)]]></title>
+<slideText><![CDATA[ Boissel N, et al. J Clin Oncol. 2003;21:774-780; with permission. Outcome of Patients Aged 15–20 Years in France OS EFS ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>412</totalframes>
+<time>00:00:21</time>
+</slide><slide id="81">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide81.jpg</slideImage>
+<fileUrl>Slides/slide81.swf</fileUrl>
+<title><![CDATA[Outcomes of Pediatric and Adult ALL Trials]]></title>
+<slideText><![CDATA[ Outcomes of Patients Treated on Either Pediatric or Adult ALL Clinical Trials  Barry EV, Silverman LB. Curr Hematol Malig Rep. 2008;3:161-166. ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>572</totalframes>
+<time>00:00:29</time>
+</slide><slide id="82">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide82.jpg</slideImage>
+<fileUrl>Slides/slide82.swf</fileUrl>
+<title><![CDATA[FRALLE vs LALA: Comparison of Regimens]]></title>
+<slideText><![CDATA[ FRALLE vs LALA: Comparison of Regimens Boissel N, et al. J Clin Oncol. 2003;21:774-780. Interval between complete remission (CR) date and start of next chemotherapy course:
+FRALLE: median 2 days (only 15% &gt;7 days)
+LALA: median 7 days
+			P=0.0002 ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>2151</totalframes>
+<time>00:01:48</time>
+</slide><slide id="83">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide83.jpg</slideImage>
+<fileUrl>Slides/slide83.swf</fileUrl>
+<title><![CDATA[Comparison of Regimens (Cont’d.)]]></title>
+<slideText><![CDATA[ Could the relatively favorable results for adolescents treated with pediatric ALL regimens be extended to young adults with ALL? ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>265</totalframes>
+<time>00:00:13</time>
+</slide><slide id="84">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide84.jpg</slideImage>
+<fileUrl>Slides/slide84.swf</fileUrl>
+<title><![CDATA[PETHEMA ALL-96 Trial (Spain)]]></title>
+<slideText><![CDATA[ PETHEMA ALL-96 Trial (Spain) 1996–2005
+N=81 patients
+Ages 15–30 years
+'Standard risk' features
+WBC &lt;30,000
+Absence of t(9;22), t(9;11), MLL gene rearrangements
+Treatment: pediatric-based protocol PETHEMA=Programa Español de Tratamiento en Hematologia Pediatric-Based Protocol.
+
+Ribera J-M, et al. J Clin Oncol. 2008;26:1843-1849. ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>1130</totalframes>
+<time>00:00:56</time>
+</slide><slide id="85">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide85.jpg</slideImage>
+<fileUrl>Slides/slide85.swf</fileUrl>
+<title><![CDATA[PETHEMA ALL-96 Trial (Cont’d.)]]></title>
+<slideText><![CDATA[ PETHEMA ALL-96 Trial (Spain)  98% CR rate
+ 6-year EFS by age
+15–18 years: 60%
+19–30 years: 63%
+ Therapy well-tolerated
+No significant age-related differences in treatment-related toxicities From Ribera J-M, et al. J Clin Oncol. 2008;26:1843-1849; with permission. ]]></slideText>
+<slideURL>
+<url id="1" text="http://jco.ascopubs.org/content/vol26/issue11/images/large/zlj0110871820001.jpeg" value="http://jco.ascopubs.org/content/vol26/issue11/images/large/zlj0110871820001.jpeg"/></slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>1352</totalframes>
+<time>00:01:08</time>
+</slide><slide id="86">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide86.jpg</slideImage>
+<fileUrl>Slides/slide86.swf</fileUrl>
+<title><![CDATA[Adolescent/Young Adult ALL: Summary]]></title>
+<slideText><![CDATA[ Adolescent and Young Adult ALL: Summary Biologically higher risk disease
+Lower incidence of TEL/AML1; high hyperdiploidy
+Higher incidence of T-cell, Ph+ 
+Increased risk for treatment-related complications:
+Asparaginase: Pancreatitis/thrombosis
+Corticosteroids: osteonecrosis
+Better outcomes on pediatric ALL regimens 
+Pediatric regimens currently being piloted in adults with ALL
+ ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>1092</totalframes>
+<time>00:00:55</time>
+</slide><slide id="87">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide87.jpg</slideImage>
+<fileUrl>Slides/slide87.swf</fileUrl>
+<title><![CDATA[Panel Discussion]]></title>
+<slideText><![CDATA[ Panel Discussion ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>13714</totalframes>
+<time>00:11:26</time>
+</slide><slide id="88">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide88.jpg</slideImage>
+<fileUrl>Slides/slide88.swf</fileUrl>
+<title><![CDATA[MRD in ALL: Prognostic Implications]]></title>
+<slideText><![CDATA[ The Prognostic Implications of Minimal Residual Disease in Acute Lymphoblastic Leukemia 
+
+ Stephen P. Hunger, MD
+Professor and Ergen Family Chair in Pediatric Cancer
+Director, Center for Cancer and Blood Disorders
+Chief, Pediatric Hematology/Oncology/BMT
+University of Colorado Denver and The Children’s Hospital
+Aurora, Colorado
+Chair, Children’s Oncology Group ALL Committee ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>672</totalframes>
+<time>00:00:34</time>
+</slide><slide id="89">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide89.jpg</slideImage>
+<fileUrl>Slides/slide89.swf</fileUrl>
+<title><![CDATA[Disclosure]]></title>
+<slideText><![CDATA[ Disclosure of Conflicts of Interests Stephen P. Hunger, MD
+
+Dr. Stephen P. Hunger has no affiliations with commercial interests to disclose.
+ ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>53</totalframes>
+<time>00:00:03</time>
+</slide><slide id="90">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide90.jpg</slideImage>
+<fileUrl>Slides/slide90.swf</fileUrl>
+<title><![CDATA[Improved Survival in Childhood ALL]]></title>
+<slideText><![CDATA[ 
+	 Years From Study Entry Estimated Survival Percentage  Improved Survival in Childhood Acute Lymphoblastic Leukemia (ALL) Children’s Oncology Group 1968-2000 ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>534</totalframes>
+<time>00:00:27</time>
+</slide><slide id="91">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide91.jpg</slideImage>
+<fileUrl>Slides/slide91.swf</fileUrl>
+<title><![CDATA[Survival Comparison: COG 1990-2005]]></title>
+<slideText><![CDATA[ Survival Comparison: Children’s Oncology Group (COG) ALL Study Series 1990–2005 (Overall: n=21,644 patients) P&lt;0.0001 Hunger SP, et al. Presented at the 40th Congress of the International Society of Paediatric Oncology (SIOP), October 2-6, 2008; Berlin, Germany.  ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>973</totalframes>
+<time>00:00:49</time>
+</slide><slide id="92">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide92.jpg</slideImage>
+<fileUrl>Slides/slide92.swf</fileUrl>
+<title><![CDATA[Risk of Death]]></title>
+<slideText><![CDATA[  Risk of Death: 42% Decrease 1990–1994 vs 2000–2005 *All P&lt;0.0001 except 16+ years; P=0.06.
+HR=high risk; NCI=National Cancer Institute; SR=standard risk.
+
+Hunger SP, et al. Presented at SIOP 2008. ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>790</totalframes>
+<time>00:00:40</time>
+</slide><slide id="93">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide93.jpg</slideImage>
+<fileUrl>Slides/slide93.swf</fileUrl>
+<title><![CDATA[COG ALL Survival 1990-2005: Conclusions]]></title>
+<slideText><![CDATA[ COG ALL Survival 1990–2005: Conclusions Substantial reduction in deaths since 1990
+Reductions occurred in all patient subsets
+To further improve outcome, efforts must focus on both high-risk patient subsets (Ph+ ALL and others) and patient subsets with excellent outcome, in which 35%–40% of deaths still occur  ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>1152</totalframes>
+<time>00:00:58</time>
+</slide><slide id="94">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide94.jpg</slideImage>
+<fileUrl>Slides/slide94.swf</fileUrl>
+<title><![CDATA[Clinical Utility of Early Response to Therapy]]></title>
+<slideText><![CDATA[ Clinical Utility of Early Response to Therapy in ALL Poor outcome for patients who fail to enter remission
+Because the complete response (CR) rate is 98%–99% in ALL, limited clinical utility
+Degree and rate of blast clearance during induction is a powerful predictor of outcome; novel therapies can improve outcome of poor responders
+Rapidity and depth of early clearance of blasts is highly predictive of outcome
+Response to prednisone prophase
+Bone marrow morphology during induction
+Detection of subclinical levels of minimal residual disease (MRD) ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>2612</totalframes>
+<time>00:02:11</time>
+</slide><slide id="95">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide95.jpg</slideImage>
+<fileUrl>Slides/slide95.swf</fileUrl>
+<title><![CDATA[Minimal Residual Disease]]></title>
+<slideText><![CDATA[ Minimal Residual Disease (MRD) Morphologic assessment is a crude but accurate and reproducible way to identify patients likely to have good or bad outcomes
+MRD is the presence of cells following chemotherapy below the level of morphologic detection
+Techniques to assess MRD should achieve a sensitivity of at least 1/10,000 (0.01%)
+More sensitive measures should be a more accurate way to identify groups for risk-adapted therapy ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>1272</totalframes>
+<time>00:01:04</time>
+</slide><slide id="96">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide96.jpg</slideImage>
+<fileUrl>Slides/slide96.swf</fileUrl>
+<title><![CDATA[ALL: Techniques Used to Assess MRD]]></title>
+<slideText><![CDATA[ ALL: Major Techniques Used to Assess MRD Detection of leukemia-associated phenotypes via flow cytometry
+Applicable in almost all cases
+Fast, relatively inexpensive
+Less sensitive than molecular methods
+PCR amplification of antigen receptor loci (Ig or TCR)
+Applicable to ~80% of cases
+Laborious and expensive (10× flow), but very sensitive
+Parallel studies of flow and PCR show very similar results
+PCR of translocation-derived fusion transcripts
+Only suitable for defined subgroups, such as Ph+ ALL Ig=immunoglobulin; PCR=polymerase chain reaction; TCR=T-cell receptor. ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>1952</totalframes>
+<time>00:01:38</time>
+</slide><slide id="97">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide97.jpg</slideImage>
+<fileUrl>Slides/slide97.swf</fileUrl>
+<title><![CDATA[Flow Cytometry]]></title>
+<slideText><![CDATA[]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>404</totalframes>
+<time>00:00:20</time>
+</slide><slide id="98">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide98.jpg</slideImage>
+<fileUrl>Slides/slide98.swf</fileUrl>
+<title><![CDATA[Flow Cytometry (Cont’d.)]]></title>
+<slideText><![CDATA[ 0.039%+   ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>539</totalframes>
+<time>00:00:27</time>
+</slide><slide id="99">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide99.jpg</slideImage>
+<fileUrl>Slides/slide99.swf</fileUrl>
+<title><![CDATA[COG P9900: MRD Testing]]></title>
+<slideText><![CDATA[ COG P9900: MRD Testing Bone marrow (BM) (day 29 and week 22–30) and peripheral blood (PB) (day 8) samples collected from &gt;2500 patients enrolled in COG P9900 and shipped from &gt;100 centers to a single central reference laboratory at Johns Hopkins Hospital
+Data available from &gt;98% of patients within 24 hours
+Established feasibility of real-time central reference lab flow cytometry–based MRD testing
+MRD results were blinded and not used to alter therapy ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>1713</totalframes>
+<time>00:01:26</time>
+</slide><slide id="100">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide100.jpg</slideImage>
+<fileUrl>Slides/slide100.swf</fileUrl>
+<title><![CDATA[End Induction BM MRD is Highly Prognostic]]></title>
+<slideText><![CDATA[]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>1075</totalframes>
+<time>00:00:54</time>
+</slide><slide id="101">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide101.jpg</slideImage>
+<fileUrl>Slides/slide101.swf</fileUrl>
+<title><![CDATA[Day 29 BM MRD and Early/Late Relapse]]></title>
+<slideText><![CDATA[]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>1852</totalframes>
+<time>00:01:33</time>
+</slide><slide id="102">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide102.jpg</slideImage>
+<fileUrl>Slides/slide102.swf</fileUrl>
+<title><![CDATA[COG P9906: Day 29 BM MRD]]></title>
+<slideText><![CDATA[]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>993</totalframes>
+<time>00:00:50</time>
+</slide><slide id="103">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide103.jpg</slideImage>
+<fileUrl>Slides/slide103.swf</fileUrl>
+<title><![CDATA[Day 8 PB is Highly Prognostic: COG P9900]]></title>
+<slideText><![CDATA[ Day 8 PB MRD is Highly Prognostic: COG P9900  0 1 2 3 4 5 6 0.0 0.2 0.4 0.6 0.8 1.0  Years EFS probability      1: MRD&lt;0.01% (n=603) 2: 0.01%&lt;MRD≤0.1% (n=341) 3: 0.1%&lt;MRD≤1.0% (n=501) 4: 1.0%&lt;MRD≤10.0% (n=373) 5: MRD&gt;10% (n=116)   P &lt;  0.0001 Only 16% of events occur in the MRD-negative group Borowitz M, et al. Blood. 2008;111:5477-5485. ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>1172</totalframes>
+<time>00:00:59</time>
+</slide><slide id="104">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide104.jpg</slideImage>
+<fileUrl>Slides/slide104.swf</fileUrl>
+<title><![CDATA[COG P9900: Multivariate Analyses]]></title>
+<slideText><![CDATA[ COG P9900: Multivariate Analyses Day 8 BM morphology not significant Borowitz M, et al. Blood. 2008;111:5477-5485. ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>772</totalframes>
+<time>00:00:39</time>
+</slide><slide id="105">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide105.jpg</slideImage>
+<fileUrl>Slides/slide105.swf</fileUrl>
+<title><![CDATA[COG P9900 MRD Testing: Conclusions]]></title>
+<slideText><![CDATA[ COG P9900 MRD Testing: Conclusions Day 29 BM and day 8 PB MRD highly predictive of BM, but not central nervous system, relapse
+Best cut-off for identifying patients at increased risk of relapse is day 29 MRD &gt;0.01%
+Can eliminate day 8 + 15 BM morphologic responses
+Day 29 BM MRD predicts both early and late relapse
+Can MRD results from later time points further refine prognosis? ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>993</totalframes>
+<time>00:00:50</time>
+</slide><slide id="106">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide106.jpg</slideImage>
+<fileUrl>Slides/slide106.swf</fileUrl>
+<title><![CDATA[COG P9900: Late MRD Assessment]]></title>
+<slideText><![CDATA[ COG P9900: Late MRD Assessment MRD samples requested from all patients at week 22–30 depending on clinical trial
+58/1219 (4.8%) were positive at &gt;0.01%
+26/1219 (2%) were positive at &gt;0.1%
+11/1219 (0.9%) were positive at &gt;1% Borowitz MJ, et al. J Clin Oncol. 2008 (May 20 Suppl). Abstract 10000. ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>813</totalframes>
+<time>00:00:41</time>
+</slide><slide id="107">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide107.jpg</slideImage>
+<fileUrl>Slides/slide107.swf</fileUrl>
+<title><![CDATA[COG P9900 MRD, Day 29]]></title>
+<slideText><![CDATA[ 0 1 2 3 4 5 6 7 0.0 0.2 0.4 0.6 0.8 1.0  Years EFS probability   Negative (≤0.1%) (n=215) Positive (&gt;0.1%) (n=16)   P=0.0113         31 ± 15% 56 ± 4%   COG P9900 MRD &gt;0.01% Day 29:
+EFS by MRD at Week 22–30 (Threshold 0.1%) 6.9% of d29 MRD+ patients ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>1012</totalframes>
+<time>00:00:51</time>
+</slide><slide id="108">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide108.jpg</slideImage>
+<fileUrl>Slides/slide108.swf</fileUrl>
+<title><![CDATA[I-BFM MRD Study 91: Long-Term Results]]></title>
+<slideText><![CDATA[ I-BFM MRD (IgH/TCR PCR) Study 91: Long-Term Results I-BFM=International Berlin–Frankfurt–Münster.
+Flohr T, et al. Leukemia. 2008;22:771-782. ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>1455</totalframes>
+<time>00:01:13</time>
+</slide><slide id="109">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide109.jpg</slideImage>
+<fileUrl>Slides/slide109.swf</fileUrl>
+<title><![CDATA[AEIOP-BFM ALL 2000: Risk Groups]]></title>
+<slideText><![CDATA[ AEIOP-BFM ALL 2000: Risk Groups Based on IgH/TCR MRD Schrauder A et al, Proc SIOP #A0.003 ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>650</totalframes>
+<time>00:00:32</time>
+</slide><slide id="110">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide110.jpg</slideImage>
+<fileUrl>Slides/slide110.swf</fileUrl>
+<title><![CDATA[ALL-BFM 2000: Outcome of MRD-HR Group]]></title>
+<slideText><![CDATA[ ALL-BFM 2000: Outcome of MRD-HR Group Patients with IgH/TCR PCR MRD &gt;10−3 at TP2 (n=116) had 4-year EFS of 35%
+Received 3 HR blocks post TP2
+If became MRD negative: 4-year EFS 78% post SCT
+If remained MRD &gt;10−3
+EFS 43% with stem cell transplant; 17% with chemotherapy Schrauder A et al, Proc SIOP #A0.003 ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>1391</totalframes>
+<time>00:01:10</time>
+</slide><slide id="111">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide111.jpg</slideImage>
+<fileUrl>Slides/slide111.swf</fileUrl>
+<title><![CDATA[Conclusions]]></title>
+<slideText><![CDATA[ Conclusions End-induction MRD is highly prognostic and can be used to assign postinduction treatment intensity
+Inverse relationship between increasing MRD and decreasing EFS
+Earlier MRD measures (day 8 PB) may help identify ultra–good-risk patients
+Detection of MRD via flow cytometry has logistical advantages for large-scale clinical trials 
+MRD at end consolidation (week 12–13) may help refine prognosis and identify patients in whom novel interventions should be tested ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>1431</totalframes>
+<time>00:01:12</time>
+</slide><slide id="112">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide112.jpg</slideImage>
+<fileUrl>Slides/slide112.swf</fileUrl>
+<title><![CDATA[Acknowledgment]]></title>
+<slideText><![CDATA[ Acknowledgment Michael Borowitz ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>65</totalframes>
+<time>00:00:03</time>
+</slide><slide id="113">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide113.jpg</slideImage>
+<fileUrl>Slides/slide113.swf</fileUrl>
+<title><![CDATA[Panel Discussion]]></title>
+<slideText><![CDATA[ Panel Discussion ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>12345</totalframes>
+<time>00:10:17</time>
+</slide><slide id="114">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide114.jpg</slideImage>
+<fileUrl>Slides/slide114.swf</fileUrl>
+<title><![CDATA[Future Questions]]></title>
+<slideText><![CDATA[ Future Questions ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>3865</totalframes>
+<time>00:03:13</time>
+</slide><slide id="115">
+<transition></transition>
+<width>864</width>
+<height>540</height>
+<slideImage height="150" width="200">Images/slide115.jpg</slideImage>
+<fileUrl>Slides/slide115.swf</fileUrl>
+<title><![CDATA[Thank you]]></title>
+<slideText><![CDATA[ Thank you for participating in this educational activity. Please complete the CME/CE Test Questions (Learning Assessment) and Evaluation Form found on the home page of this activity. ]]></slideText>
+<slideURL>
+</slideURL>
+<waitforuser>false</waitforuser>
+<totalframes>543</totalframes>
+<time>00:00:27</time>
+</slide></slides>
+</presentation>

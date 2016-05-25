@@ -1,0 +1,74 @@
+.TopMenuStyle{
+margin-left: 0;
+left:-40px;
+list-style-type: none;
+margin-bottom: 0;
+position:relative;
+text-align: left; /*set to left, center, or right to align the menu as desired*/
+width:770px;
+}
+
+.TopMenuStyle li{
+display: inline;
+float:left;
+margin: 0;
+}
+
+.TopMenuStyle li a{
+text-decoration: none;
+}
+
+
+.TopMenuStyle li a:visited{
+color: black;
+}
+
+.TopMenuStyle li a:hover{
+background-color: #dbffff;
+color: black;
+}
+
+.TopMenuStyle li a:active{
+color: black;
+}
+
+.TopMenuStyle li.selected a{ /*selected tab effect*/
+position: relative;
+top: 1px;
+padding-top: 4px;
+background-color: #dbffff;
+color: black;
+}
+
+
+.SubMenuStyle{
+background:#CCCC99;
+clear:both;
+font:12px arial, sans-serif;
+padding: 5px;
+border-top-width: 0;
+width: 759px;;
+min_height:26px;
+display: none;
+filter:alpha(opacity=0);
+text-align:center;
+-moz-opacity:0;
+}
+
+* html .SubMenuStyle{ /*IE only width definition*/
+width: 100%;
+}
+
+.SubMenuStyle a{
+border-right: 1px solid #666633;
+color:#797946;
+padding: 0px 7px 0px 5px;
+margin:2px 2px 2px 0px;
+text-decoration: none;
+}
+
+.SubMenuStyle a:hover{
+padding: 0px 7px 0px 5px;
+margin:2px 2px 2px 0px;
+text-decoration:underline;
+}

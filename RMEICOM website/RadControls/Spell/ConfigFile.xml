@@ -1,0 +1,49 @@
+<!-- ==============================================================================================
+	Config File valid structure:
+	<configuration>
+		<property>
+			<item>...</item>
+			<item>...</item>
+			...
+		</property>
+		...
+	</configuration>
+
+	"property" element valid attributes:
+	name (required):
+			IsClientID, AllowAddCustom, ButtonType, ButtonLabel, ButtonImage,
+			ButtonHoverImage, ButtonCssClass, LanguagesCssClass, ControlToCheck,
+			CustomAppendix, DictPath, DictionaryLanguage, Language, Skin,
+			EditDistance, CheckAllCaps, CheckCapital, CheckWordsWNumbers,
+			CheckForRepeatWords, SupportedLanguages, GetElementFormat,
+			Company, LicenseKey, LicenseFile, SpellCheckProvider
+
+	"item" element valid attributes:
+	(item elements should appear as child elements of a property element with "name" attribute set to:
+	"SupportedLanguages")
+	name (not required):
+				The name attribute should be set only to "item" nodes which are child elements of
+				a "property" node with "name" attribute set to "SupportedLanguages".
+=============================================================================================== -->
+<configuration>
+	<property name="ButtonLabel">SpellCheck</property>
+	<property name="CustomAppendix">-Custom</property>
+	<property name="DictPath">~/RadControls/Spell/TDF</property>
+	<property name="DictionaryLanguage">en-US</property>
+	<property name="GetElementFormat">document.getElementById('{0}')</property>
+	<property name="ButtonType">PushButton</property>
+	<property name="Language">en-US</property>
+	<property name="Skin">Default</property>
+	<property name="EditDistance">1</property>
+	<property name="IsClientID">false</property>
+	<property name="AllowAddCustom">true</property>
+	<property name="CheckAllCaps">false</property>
+	<property name="CheckCapital">true</property>
+	<property name="CheckWordsWNumbers">false</property>
+	<property name="UseSession">false</property>
+	<property name="CheckForRepeatWords">false</property>
+	<property name="SupportedLanguages">
+		<item name="en-US">English</item>
+	</property>
+	<property name="SpellCheckProvider">TelerikProvider</property>
+</configuration>

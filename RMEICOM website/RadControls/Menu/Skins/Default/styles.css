@@ -1,0 +1,80 @@
+/* r.a.d.menu Plain skin */
+
+.RadMenu_Default .leftArrow,
+.RadMenu_Default .rightArrow,
+.RadMenu_Default .topArrow,
+.RadMenu_Default .bottomArrow,
+.RadMenu_Default .leftArrowDisabled,
+.RadMenu_Default .rightArrowDisabled,
+.RadMenu_Default .topArrowDisabled,
+.RadMenu_Default .bottomArrowDisabled
+{
+	background: #ededed url('img/left.gif') center center no-repeat;
+	width:15px;
+}
+
+.RadMenu_Default .topArrow,
+.RadMenu_Default .topArrowDisabled
+{
+	background-image:url('img/top.gif');
+	width:100%;
+}
+
+.RadMenu_Default .bottomArrow,
+.RadMenu_Default .bottomArrowDisabled
+{
+	background-image:url('img/bottom.gif');
+	width:100%;
+}
+
+.RadMenu_Default .rightArrow,
+.RadMenu_Default .leftArrow
+{
+	height:100%;
+}
+
+.RadMenu_Default .rightArrow,
+.RadMenu_Default .rightArrowDisabled
+{
+	background-image: url('img/right.gif');
+}
+
+.RadMenu_Default .vertical .separator .text
+{
+	padding-top: 0px;
+	background: #ccc;
+	font-size: 1px;
+}
+
+.RadMenu_Default .expandLeft,
+.RadMenu_Default .expandRight
+{
+	background: transparent url(img/groupImage.gif) right center no-repeat;
+	margin-right: 0px;
+}
+
+.RadMenu_Default_rtl .expandLeft,
+.RadMenu_Default_rtl .expandRight
+{
+	background: url(img/groupImageRTL.gif) left center no-repeat;
+}
+
+.RadMenu_Default .link:hover .expandLeft,
+.RadMenu_Default .link:hover .expandRight,
+.RadMenu_Default .focused .expandLeft,
+.RadMenu_Default .focused .expandRight,
+.RadMenu_Default .expanded .expandLeft,
+.RadMenu_Default .expanded .expandRight
+{
+	background:transparent url(img/invertedGroupImage.gif) right center no-repeat;
+}
+
+.RadMenu_Default_rtl .link:hover .expandLeft,
+.RadMenu_Default_rtl .link:hover .expandRight,
+.RadMenu_Default_rtl .focused .expandLeft,
+.RadMenu_Default_rtl .focused .expandRight,
+.RadMenu_Default_rtl .expanded .expandLeft,
+.RadMenu_Default_rtl .expanded .expandRight
+{
+	background:transparent url(img/groupImageRTL.gif) left center no-repeat;
+}

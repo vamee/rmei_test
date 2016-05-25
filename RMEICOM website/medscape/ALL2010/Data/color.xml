@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Blue Color -->
+<color>
+	<!-- color value for the base  -->
+	<colVal>0x325EA5</colVal>
+	
+	<!-- color value for the slide area  -->
+	<colSldArea>0xC6D3E6</colSldArea>
+
+	<!-- color of shadow text in the tool tip  -->
+	<first>0x959CBF</first>
+
+	<!-- color of border of the text in tool tip  -->
+	<second>0x1B3E67</second>
+
+	<!-- color of text in the textbox in tool tip  -->
+	<strokeColor>0x1760B6</strokeColor>
+
+	<!-- background color of list -->
+	<lstbgColor>0x9AAFD1</lstbgColor>
+
+	<!-- color of text on normal list -->
+	<lstTextColor>0x000000</lstTextColor>
+
+	<!-- color of item has seen by user in list -->
+	<lstDisRowColor>0x7692C0</lstDisRowColor>
+
+	<!-- color of item  seen by over mouse over  -->
+	<lstRollOverColor>0xB5C4DD</lstRollOverColor>
+
+	<!-- color of text in the list row as seen by on mouse over  -->
+	<lstTextRollOverColor>0x333333</lstTextRollOverColor>
+
+	<!-- item selected by user in list 1E4674-->
+	<lstSelectedColor>0x5678B1</lstSelectedColor>
+
+	<!-- text color of item selected by user in list -->
+	<lstSelectedTextColor>0xFFFFFF</lstSelectedTextColor>
+</color>
